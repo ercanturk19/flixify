@@ -79,7 +79,8 @@ export function MoviesPage() {
   // Parse playlists
   useEffect(() => {
     if (playlists.length > 0 && allChannels.length === 0) {
-      parseAndCategorizeContent();
+      // TODO: Get content from playlist URL
+      parseAndCategorizeContent('');
     }
   }, [playlists, allChannels.length, parseAndCategorizeContent]);
 

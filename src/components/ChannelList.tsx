@@ -1,8 +1,6 @@
 import { useRef, useState, useEffect, useMemo } from 'react';
-import { FixedSizeList as List } from 'react-window';
 import { useFilteredChannels } from '../store/useChannelStore';
 import ChannelRow from './ChannelRow';
-
 
 const ITEM_SIZE = 64; // Height of each row in pixels
 
@@ -23,7 +21,10 @@ const ChannelList = () => {
     });
 
     observer.observe(containerRef.current);
-    return () => observer.disconnect();
+
+    return () => {
+      observer.disconnect();
+    };
   }, []);
 
   // Use memoized item data wrapper to pass to the list
@@ -33,16 +34,17 @@ const ChannelList = () => {
   return (
     <div ref={containerRef} className="flex-1 w-full h-full overflow-hidden bg-gray-900">
       {size.height > 0 && (
-        <List
-          height={size.height}
-          itemCount={filteredChannels.length}
-          itemSize={ITEM_SIZE}
-          width={size.width}
-          itemData={itemData}
-          overscanCount={5} // Render 5 extra items outside visible area for smoother scrolling
-        >
-          {ChannelRow}
-        </List>
+        <div className="overflow-y-auto h-full">
+          {filteredChannels.map((channel, index) => (
+            <div key={channel.id} style={{ height: ITEM_SIZE }}>
+              <ChannelRow 
+                channel={channel} 
+                index={index}
+                onClick={() => {}}
+              />
+            </div>
+          ))}
+        </div>
       )}
       {filteredChannels.length === 0 && (
         <div className="flex items-center justify-center h-full text-gray-500">

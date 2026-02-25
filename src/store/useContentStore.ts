@@ -370,7 +370,7 @@ export const useContentStore = create<ContentState>()((set, get) => ({
                 }
             };
 
-            worker.onerror = (err) => {
+            worker.onerror = (_err) => {
                 set({ isLoading: false, error: 'İçerik işlenirken hata oluştu.' });
                 worker.terminate();
             };

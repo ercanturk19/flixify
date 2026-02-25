@@ -103,14 +103,10 @@ export function AddPlaylistModal({ onClose }: AddPlaylistModalProps) {
                 throw new Error('Girilen bağlantıda geçerli IPTV kanalı bulunamadı.');
             }
 
-            addPlaylist({
-                name,
-                url,
-                channels,
-            });
+            addPlaylist(name, url, channels);
 
             // Re-parse to categorize
-            parseAndCategorizeContent();
+            await parseAndCategorizeContent(content);
 
             setSuccess(true);
             setTimeout(() => {

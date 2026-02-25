@@ -353,22 +353,22 @@ const ChannelListView = memo(function ChannelListView({
           <>
             {viewMode === 'list' ? (
               <div className="space-y-2">
-                {displayedChannels.map((channel: M3UChannel) => (
+                {displayedChannels.map((channel: M3UChannel, index: number) => (
                   <ChannelRow
                     key={channel.id}
                     channel={channel}
-                    index={idx}
+                    index={index}
                     onClick={() => setSelectedChannel(channel)}
                   />
                 ))}
               </div>
             ) : (
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
-                {displayedChannels.map((channel: M3UChannel) => (
+                {displayedChannels.map((channel: M3UChannel, index: number) => (
                   <ChannelCard
                     key={channel.id}
                     channel={channel}
-                    index={idx}
+                    index={index}
                     onClick={() => setSelectedChannel(channel)}
                   />
                 ))}
