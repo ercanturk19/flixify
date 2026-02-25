@@ -49,6 +49,8 @@ interface ContentState {
     loadFromM3uUrl: (url: string) => Promise<void>;
     setSelectedItem: (item: ContentItem | null) => void;
     clearContent: () => void;
+    addPlaylist: (name: string, url: string, channels: M3UChannel[]) => void;
+    parseAndCategorizeContent: (content: string) => Promise<void>;
 }
 
 // Pre-compiled regex patterns for better performance
@@ -106,7 +108,7 @@ function extractMetadata(channel: M3UChannel): Partial<ContentItem> {
 }
 
 // Optimized categorization function - runs in batches to prevent blocking
-function categorizeContentInBatches(
+export function categorizeContentInBatches(
     allChannels: M3UChannel[],
     onProgress: (result: Partial<ContentState>) => void,
     batchSize = 1000
@@ -322,6 +324,60 @@ export const useContentStore = create<ContentState>()((set, get) => ({
         selectedItem: null,
         searchResults: [],
     }),
+
+    addPlaylist: (name: string, url: string, channels: M3UChannel[]) => {
+        set((state) => ({
+            playlists: [...state.playlists, { name, url, channels }]
+        }));
+    },
+
+    parseAndCategorizeContent: async (content: string) => {
+        set({ isLoading: true, error: null });
+        try {
+            const worker = new Worker(new URL('../workers/m3uWorker.ts', import.meta.url), { type: 'module' });
+            
+            worker.postMessage({
+                type: 'PARSE_AND_CATEGORIZE',
+                payload: { content }
+            });
+
+            worker.onmessage = (e) => {
+                const { type, result, error } = e.data;
+
+                if (type === 'SUCCESS') {
+                    const { allChannels, liveChannels, movies, series, categories } = result;
+
+                    let featured = null;
+                    if (movies.length > 0) featured = movies[0];
+                    else if (series.length > 0) featured = series[0];
+                    else if (liveChannels.length > 0) featured = liveChannels[0];
+
+                    set({
+                        playlists: [{ name: 'Parsed List', url: '', channels: allChannels }],
+                        allChannels,
+                        liveChannels,
+                        movies,
+                        series,
+                        categories,
+                        featuredContent: featured,
+                        isLoading: false
+                    });
+                    
+                    worker.terminate();
+                } else {
+                    set({ isLoading: false, error: error });
+                    worker.terminate();
+                }
+            };
+
+            worker.onerror = (err) => {
+                set({ isLoading: false, error: 'İçerik işlenirken hata oluştu.' });
+                worker.terminate();
+            };
+        } catch (err: any) {
+            set({ isLoading: false, error: err.message });
+        }
+    },
 
     setSearchQuery: (query) => {
         set({ searchQuery: query });

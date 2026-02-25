@@ -1,17 +1,17 @@
-import { Tv, Play } from 'lucide-react';
+import { Tv } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
 interface UpgradePromptProps {
   title?: string;
   description?: string;
-  showReturnLink?: boolean;
+
 }
 
 export function UpgradePrompt({ 
   title = 'Henüz Bir Paketiniz Yok',
   description = 'Binlerce film, dizi ve canlı kanalı izlemeye başlamak için hesabınıza bir yayın paketi tanımlamanız gerekmektedir.',
-  showReturnLink = false 
+
 }: UpgradePromptProps) {
   
   return (

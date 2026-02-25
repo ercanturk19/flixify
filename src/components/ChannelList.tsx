@@ -1,8 +1,8 @@
-import React, { useRef, useState, useEffect, useMemo } from 'react';
+import { useRef, useState, useEffect, useMemo } from 'react';
 import { FixedSizeList as List } from 'react-window';
 import { useFilteredChannels } from '../store/useChannelStore';
 import ChannelRow from './ChannelRow';
-import { Channel } from '../lib/indexedDB';
+
 
 const ITEM_SIZE = 64; // Height of each row in pixels
 

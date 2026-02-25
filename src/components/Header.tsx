@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef, memo } from 'react';
+import { useState, useEffect, useCallback, memo } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Search, Bell, User, Menu, X, Tv, LogOut } from 'lucide-react';
 import { useContentStore } from '../store/useContentStore';

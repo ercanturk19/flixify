@@ -188,7 +188,7 @@ const CountrySelectionView = memo(function CountrySelectionView({
 
             {/* Popular Countries */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-              {popularCountries.map((country: any, idx: number) => (
+              {popularCountries.map((country: any) => (
                 <button
                   key={country.code}
                   onClick={() => selectCountry(country.code)}
@@ -353,7 +353,7 @@ const ChannelListView = memo(function ChannelListView({
           <>
             {viewMode === 'list' ? (
               <div className="space-y-2">
-                {displayedChannels.map((channel: M3UChannel, idx: number) => (
+                {displayedChannels.map((channel: M3UChannel) => (
                   <ChannelRow
                     key={channel.id}
                     channel={channel}
@@ -364,7 +364,7 @@ const ChannelListView = memo(function ChannelListView({
               </div>
             ) : (
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
-                {displayedChannels.map((channel: M3UChannel, idx: number) => (
+                {displayedChannels.map((channel: M3UChannel) => (
                   <ChannelCard
                     key={channel.id}
                     channel={channel}
