@@ -1,0 +1,373 @@
+{
+  "hero": {
+    "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/220311.mp4",
+    "title": "Eine Weihnachtsliebe zum Festhalten",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvWBXrDWQRuPmrQKToehsx6QQ5j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvWBXrDWQRuPmrQKToehsx6QQ5j.jpg",
+    "year": 2015,
+    "rating": 9,
+    "duration": "98 dk",
+    "genres": [
+      "DE ▹ Weihnachtsfilme"
+    ],
+    "description": "Eine Weihnachtsliebe zum Festhalten filmini kesintisiz ve yüksek kalitede izleyin.",
+    "match": 99,
+    "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/220311.mp4",
+    "type": "movie",
+    "category": "featured"
+  },
+  "categories": [
+    {
+      "id": "new-releases",
+      "title": "Günün Popüler Filmleri",
+      "items": [
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/220311.mp4",
+          "title": "Eine Weihnachtsliebe zum Festhalten",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvWBXrDWQRuPmrQKToehsx6QQ5j.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvWBXrDWQRuPmrQKToehsx6QQ5j.jpg",
+          "year": 2015,
+          "rating": 9,
+          "duration": "98 dk",
+          "genres": [
+            "DE ▹ Weihnachtsfilme"
+          ],
+          "description": "Eine Weihnachtsliebe zum Festhalten filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 99,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/220311.mp4",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/448180.mkv",
+          "title": "Die unglaublichen Abenteuer von Bella | 2019 | 4K",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RHIhgLd3IxOWYwXUM7Ch0G2ura.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RHIhgLd3IxOWYwXUM7Ch0G2ura.jpg",
+          "year": 2015,
+          "rating": 6.2,
+          "duration": "94 dk",
+          "genres": [
+            "DE ▹ 4K Filme"
+          ],
+          "description": "Die unglaublichen Abenteuer von Bella | 2019 | 4K filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 94,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/448180.mkv",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575289.ts",
+          "title": "YERLI 1 | REX-Film",
+          "poster": "https://i.ibb.co/6hwwjKZ/movie.png",
+          "backdrop": "https://i.ibb.co/6hwwjKZ/movie.png",
+          "year": 2020,
+          "rating": 8.2,
+          "duration": "133 dk",
+          "genres": [
+            "TR ▹ Sinema Yerli"
+          ],
+          "description": "YERLI 1 | REX-Film filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 90,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575289.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569335.ts",
+          "title": "BILIM KURGU 2",
+          "poster": "https://tvchannelslist.site/logo/byzbox-132x991.png",
+          "backdrop": "https://tvchannelslist.site/logo/byzbox-132x991.png",
+          "year": 2018,
+          "rating": 8,
+          "duration": "146 dk",
+          "genres": [
+            "TR ▹ Byzbox 7/24 Film"
+          ],
+          "description": "BILIM KURGU 2 filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 87,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569335.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/518672.ts",
+          "title": "FR: CANAL_CINEMA",
+          "poster": "https://i.imgur.com/hpEqKo5.png",
+          "backdrop": "https://i.imgur.com/hpEqKo5.png",
+          "year": 2021,
+          "rating": 8.5,
+          "duration": "110 dk",
+          "genres": [
+            "FR ▹ Cinema"
+          ],
+          "description": "FR: CANAL_CINEMA filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 85,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/518672.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/593756.ts",
+          "title": "Rex-Sinema | 4",
+          "poster": "https://i.ibb.co/RTtvv3Ws/4.png",
+          "backdrop": "https://i.ibb.co/RTtvv3Ws/4.png",
+          "year": 2017,
+          "rating": 6.5,
+          "duration": "145 dk",
+          "genres": [
+            "TR ▹ Sinema Salon"
+          ],
+          "description": "Rex-Sinema | 4 filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 92,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/593756.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/596299.ts",
+          "title": "US: HBO SIGNATURE",
+          "poster": "https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",
+          "backdrop": "https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",
+          "year": 2016,
+          "rating": 8.2,
+          "duration": "97 dk",
+          "genres": [
+            "US ▹ Cinema"
+          ],
+          "description": "US: HBO SIGNATURE filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 97,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/596299.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569294.ts",
+          "title": "HARRY  POTTER",
+          "poster": "https://tvchannelslist.site/logo/byzbox-132x991.png",
+          "backdrop": "https://tvchannelslist.site/logo/byzbox-132x991.png",
+          "year": 2015,
+          "rating": 8,
+          "duration": "126 dk",
+          "genres": [
+            "TR ▹ Byzbox 7/24 Film"
+          ],
+          "description": "HARRY  POTTER filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 98,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569294.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/541420.ts",
+          "title": "GR: NOVA PREMIERE History",
+          "poster": "s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4bv8tcds7RRBxI1_WGFwfO-CPNEiGAUUPPDCRIy4OVhm4qc1m-uKBEO8OW2wMoYcWJL33lOXUr0X0bpiyfleBAA.png",
+          "backdrop": "s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4bv8tcds7RRBxI1_WGFwfO-CPNEiGAUUPPDCRIy4OVhm4qc1m-uKBEO8OW2wMoYcWJL33lOXUr0X0bpiyfleBAA.png",
+          "year": 2013,
+          "rating": 9.5,
+          "duration": "141 dk",
+          "genres": [
+            "GR ▹ 7/24 Cinema"
+          ],
+          "description": "GR: NOVA PREMIERE History filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 96,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/541420.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/596286.ts",
+          "title": "US: EPIX 2",
+          "poster": "http://sltv-icon.cms-s.com/logo/USA/EPIX2.png",
+          "backdrop": "http://sltv-icon.cms-s.com/logo/USA/EPIX2.png",
+          "year": 2019,
+          "rating": 6.4,
+          "duration": "114 dk",
+          "genres": [
+            "US ▹ Cinema"
+          ],
+          "description": "US: EPIX 2 filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 88,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/596286.ts",
+          "type": "movie",
+          "category": "featured"
+        }
+      ]
+    },
+    {
+      "id": "for-you",
+      "title": "Sizin İçin Seçilenler",
+      "items": [
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/526449.ts",
+          "title": "GlobalBox Comedy",
+          "poster": "https://rexpicon.cfd/logo/TR/rex724.png",
+          "backdrop": "https://rexpicon.cfd/logo/TR/rex724.png",
+          "year": 2015,
+          "rating": 6.2,
+          "duration": "92 dk",
+          "genres": [
+            "TR ▹ Sinema Salon"
+          ],
+          "description": "GlobalBox Comedy filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 95,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/526449.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547477.ts",
+          "title": "MOON MOVIE GERILIM",
+          "poster": "https://rexpicon.cfd/logo/TR/rex724.png",
+          "backdrop": "https://rexpicon.cfd/logo/TR/rex724.png",
+          "year": 2024,
+          "rating": 9.3,
+          "duration": "120 dk",
+          "genres": [
+            "TR ▹ Sinema Salon"
+          ],
+          "description": "MOON MOVIE GERILIM filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 95,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547477.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/446352.mkv",
+          "title": "Alkohol | 2020",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXEIv0dbWq7GpMJZkaYQ9RM7wZ0.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXEIv0dbWq7GpMJZkaYQ9RM7wZ0.jpg",
+          "year": 2015,
+          "rating": 8.2,
+          "duration": "121 dk",
+          "genres": [
+            "DE ▹ Doku Filme"
+          ],
+          "description": "Alkohol | 2020 filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 85,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/446352.mkv",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/464170.mkv",
+          "title": "Du sollst mein Glücksstern sein - 1952",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gf7Zlyg6gzVPe1bfTr7yOQv14T.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gf7Zlyg6gzVPe1bfTr7yOQv14T.jpg",
+          "year": 2017,
+          "rating": 9.1,
+          "duration": "145 dk",
+          "genres": [
+            "DE ▹ IMDB Top 100 Filme"
+          ],
+          "description": "Du sollst mein Glücksstern sein - 1952 filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 92,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/464170.mkv",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/592464.ts",
+          "title": "SKY NOVELA",
+          "poster": "http://boxvod.vipnova.xyz:8080/kralsin/logos/albania.jpg",
+          "backdrop": "http://boxvod.vipnova.xyz:8080/kralsin/logos/albania.jpg",
+          "year": 2011,
+          "rating": 7.4,
+          "duration": "94 dk",
+          "genres": [
+            "ALB ▹ Cinema"
+          ],
+          "description": "SKY NOVELA filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 85,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/592464.ts",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/445435.mkv",
+          "title": "The Idea of You | 2024 | 4K",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssZObEgVzGNzoEfKBe65ZE7t7ZH.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssZObEgVzGNzoEfKBe65ZE7t7ZH.jpg",
+          "year": 2019,
+          "rating": 6.6,
+          "duration": "131 dk",
+          "genres": [
+            "DE ▹ 4K Filme"
+          ],
+          "description": "The Idea of You | 2024 | 4K filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 97,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/445435.mkv",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/462496.mkv",
+          "title": "Black Friday for Future | 2023 | 4K",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/61VybQvpwgq0GSpC10kkUzeB1dG.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/61VybQvpwgq0GSpC10kkUzeB1dG.jpg",
+          "year": 2013,
+          "rating": 7.1,
+          "duration": "98 dk",
+          "genres": [
+            "DE ▹ 4K Filme"
+          ],
+          "description": "Black Friday for Future | 2023 | 4K filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 96,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/462496.mkv",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/441872.mkv",
+          "title": "Green Room | 2016 | 4K",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sx2LspEzjc2oPC6HeAooS87HCtV.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sx2LspEzjc2oPC6HeAooS87HCtV.jpg",
+          "year": 2014,
+          "rating": 6.9,
+          "duration": "106 dk",
+          "genres": [
+            "DE ▹ 4K Filme"
+          ],
+          "description": "Green Room | 2016 | 4K filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 98,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/441872.mkv",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/446359.mkv",
+          "title": "Iron Man 3 | 2013 | 4K",
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0vJ6sTYWQmqenNqRa1IiW1t0Ys.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0vJ6sTYWQmqenNqRa1IiW1t0Ys.jpg",
+          "year": 2017,
+          "rating": 7.9,
+          "duration": "100 dk",
+          "genres": [
+            "DE ▹ 4K Filme"
+          ],
+          "description": "Iron Man 3 | 2013 | 4K filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 95,
+          "url": "http://rxurl.xyz:8080/movie/rick@abi/8ac12ea5/446359.mkv",
+          "type": "movie",
+          "category": "featured"
+        },
+        {
+          "id": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547434.ts",
+          "title": "ENO 4K",
+          "poster": "https://rexpicon.cfd/logo/TR/rex724.png",
+          "backdrop": "https://rexpicon.cfd/logo/TR/rex724.png",
+          "year": 2011,
+          "rating": 6.3,
+          "duration": "113 dk",
+          "genres": [
+            "TR ▹ Sinema Salon"
+          ],
+          "description": "ENO 4K filmini kesintisiz ve yüksek kalitede izleyin.",
+          "match": 96,
+          "url": "http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547434.ts",
+          "type": "movie",
+          "category": "featured"
+        }
+      ]
+    }
+  ]
+}

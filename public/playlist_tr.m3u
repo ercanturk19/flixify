@@ -1,0 +1,1633 @@
+#EXTM3U
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trt1.tr" tvg-name="TRT 1" tvg-logo="https://rexpicon.cfd/logo/TR/TRT1_hd.png" group-title="TR ▹ Ulusal",TRT 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/3.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://rexpicon.cfd/logo/TR/ATV_hd.png" group-title="TR ▹ Ulusal",ATV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/9.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="kanald.tr" tvg-name="KANAL D" tvg-logo="https://rexpicon.cfd/logo/TR/KanalD_hd.png" group-title="TR ▹ Ulusal",KANAL D
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/5.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="showtv.tr" tvg-name="SHOW TV" tvg-logo="https://rexpicon.cfd/logo/TR/ShowTV_hd.png" group-title="TR ▹ Ulusal",SHOW TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/11.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="startv.tr" tvg-name="STAR TV" tvg-logo="https://rexpicon.cfd/logo/TR/StarTV_hd.png" group-title="TR ▹ Ulusal",STAR TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/7.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv8.tr" tvg-name="TV 8" tvg-logo="https://rexpicon.cfd/logo/TR/TV8_hd.png" group-title="TR ▹ Ulusal",TV 8
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/15.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="now.tr" tvg-name="NOW" tvg-logo="https://rexpicon.cfd/logo/TR/NOW_hd.png" group-title="TR ▹ Ulusal",NOW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/13.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://rexpicon.cfd/logo/TR/Kanal7_hd.png" group-title="TR ▹ Ulusal",KANAL 7
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/28.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trt2.tr" tvg-name="TRT2" tvg-logo="https://rexpicon.cfd/logo/TR/TRT2_hd.png" group-title="TR ▹ Ulusal",TRT2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/35.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER" tvg-logo="https://rexpicon.cfd/logo/TR/TRThaber_hd.png" group-title="TR ▹ Haber",TRT HABER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/95.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/BEYAZtv_fhd.png" group-title="TR ▹ Ulusal",BEYAZ TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/23.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://rexpicon.cfd/logo/TR/BEYAZtv_hd.png" group-title="TR ▹ Ulusal",BEYAZ TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/24.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/BEYAZtv_REX.png" group-title="TR ▹ Ulusal RAW",BEYAZ TV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517169.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="teve2.tr" tvg-name="TEVE2 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/teve2_fhd.png" group-title="TR ▹ Ulusal",TEVE2 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/29.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="teve2.tr" tvg-name="TEVE2" tvg-logo="https://rexpicon.cfd/logo/TR/teve2_hd.png" group-title="TR ▹ Ulusal",TEVE2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/30.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="a2tv.tr" tvg-name="A2 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/a2_fhd.png" group-title="TR ▹ Ulusal",A2 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/21.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="a2tv.tr" tvg-name="A2" tvg-logo="https://rexpicon.cfd/logo/TR/a2_hd.png" group-title="TR ▹ Ulusal",A2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/22.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="a2tv.tr" tvg-name="A2 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/a2_REX.png" group-title="TR ▹ Ulusal RAW",A2 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517172.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TLC" tvg-logo="https://rexpicon.cfd/logo/TR/TLC_REX.png" group-title="TR ▹ Belgesel",TLC
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/110.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DMAX" tvg-logo="https://rexpicon.cfd/logo/TR/DMAX_REX.png" group-title="TR ▹ Belgesel",DMAX
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/104.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TV8-5_fhd.png" group-title="TR ▹ Ulusal",TV 8.5 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/16.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv85.tr" tvg-name="TV 8.5" tvg-logo="https://rexpicon.cfd/logo/TR/TV8-5_hd.png" group-title="TR ▹ Ulusal",TV 8.5
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/17.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/TV8-5_REX.png" group-title="TR ▹ Ulusal RAW",TV 8.5 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/279.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="360.tr" tvg-name="360 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/360tv_fhd.png" group-title="TR ▹ Ulusal",360 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/19.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="360.tr" tvg-name="360" tvg-logo="https://rexpicon.cfd/logo/TR/360tv_hd.png" group-title="TR ▹ Ulusal",360
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/20.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="360.tr" tvg-name="360 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/360tv_REX.png" group-title="TR ▹ Ulusal RAW",360 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517171.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ahaber.tr" tvg-name="A HABER RAW" tvg-logo="https://rexpicon.cfd/logo/TR/Ahaber_REX.png" group-title="TR ▹ Ulusal RAW",A HABER RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517181.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ahaber.tr" tvg-name="A HABER ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Ahaber_fhd.png" group-title="TR ▹ Haber",A HABER ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/72.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://rexpicon.cfd/logo/TR/Ahaber_hd.png" group-title="TR ▹ Haber",A HABER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/73.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="A Haber Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",A Haber Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1484.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="cnnturk.tr" tvg-name="CNN TÜRK ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/CNNturk_fhd.png" group-title="TR ▹ Haber",CNN TÜRK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/79.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="cnnturk.tr" tvg-name="CNN TÜRK" tvg-logo="https://rexpicon.cfd/logo/TR/CNNturk_hd.png" group-title="TR ▹ Haber",CNN TÜRK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/80.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="haberturk.tr" tvg-name="HABERTÜRK RAW" tvg-logo="https://rexpicon.cfd/logo/TR/HaberTurk_REX.png" group-title="TR ▹ Ulusal RAW",HABERTÜRK RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517180.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="haberturk.tr" tvg-name="HABERTÜRK ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/HaberTurk_fhd.png" group-title="TR ▹ Haber",HABERTÜRK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/83.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="haberturk.tr" tvg-name="HABERTÜRK" tvg-logo="https://rexpicon.cfd/logo/TR/HaberTurk_hd.png" group-title="TR ▹ Haber",HABERTÜRK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/84.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ntv.tr" tvg-name="NTV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/NTV_REX.png" group-title="TR ▹ Ulusal RAW",NTV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517174.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ntv.tr" tvg-name="NTV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/NTV_fhd.png" group-title="TR ▹ Haber",NTV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/88.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ntv.tr" tvg-name="NTV" tvg-logo="https://rexpicon.cfd/logo/TR/NTV_hd.png" group-title="TR ▹ Haber",NTV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/89.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NTV Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",NTV Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1525.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ntv Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Ntv Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1477.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KONTV" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvGVFTb7PQP_hjd_558hWVlfmyWJ56I5j21FyG1OkkUwyg.png" group-title="TR ▹ Yerel",KONTV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1203.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT HABER RAW" tvg-logo="https://rexpicon.cfd/logo/TR/TGRThaber_REX.png" group-title="TR ▹ Ulusal RAW",TGRT HABER RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517175.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://rexpicon.cfd/logo/TR/TGRThaber_REX.png" group-title="TR ▹ Haber",TGRT HABER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/93.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="halk.tr" tvg-name="HALK TV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/HalkTV_REX.png" group-title="TR ▹ Ulusal RAW",HALK TV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517177.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="halk.tr" tvg-name="HALK TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/HalkTV_fhd.png" group-title="TR ▹ Haber",HALK TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/85.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="halk.tr" tvg-name="HALK TV" tvg-logo="https://rexpicon.cfd/logo/TR/HalkTV_hd.png" group-title="TR ▹ Haber",HALK TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/86.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="szc.tr" tvg-name="SÖZCÜ TV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/SozcuTV_REX.png" group-title="TR ▹ Ulusal RAW",SÖZCÜ TV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517173.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="szc.tr" tvg-name="SÖZCÜ TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/SozcuTV_fhd.png" group-title="TR ▹ Haber",SÖZCÜ TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/90.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="szc.tr" tvg-name="SÖZCÜ TV" tvg-logo="https://rexpicon.cfd/logo/TR/SozcuTV_hd.png" group-title="TR ▹ Haber",SÖZCÜ TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/91.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tele1.tr" tvg-name="TELE1" tvg-logo="https://rexpicon.cfd/logo/TR/TELE1_REX.png" group-title="TR ▹ Haber",TELE1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/92.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KRT RAW" tvg-logo="https://rexpicon.cfd/logo/TR/KRT_REX.png" group-title="TR ▹ Ulusal RAW",KRT RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/576916.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="krt.tr" tvg-name="KRT TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/KRT_REX.png" group-title="TR ▹ Haber",KRT TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/87.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://rexpicon.cfd/logo/TR/TRTcocuk_REX.png" group-title="TR ▹ Çocuk",TRT Çocuk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/124.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Minika Go" tvg-logo="https://rexpicon.cfd/logo/TR/GOminika_REX.png" group-title="TR ▹ Çocuk",Minika Go
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/121.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://rexpicon.cfd/logo/TR/MinikaCocuk_REX.png" group-title="TR ▹ Çocuk",Minika Çocuk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/120.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://rexpicon.cfd/logo/TR/CartoonNetwork_REX.png" group-title="TR ▹ Çocuk",Cartoon Network
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/115.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="https://rexpicon.cfd/logo/TR/TRTbelgesel_REX.png" group-title="TR ▹ Belgesel",TRT BELGESEL
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/111.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://rexpicon.cfd/logo/TR/Discovery_REX.png" group-title="TR ▹ Belgesel",DISCOVERY CHANNEL
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/102.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://rexpicon.cfd/logo/TR/ID_REX.png" group-title="TR ▹ Belgesel",DISCOVERY ID
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/103.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://rexpicon.cfd/logo/TR/NatGEO_REX.png" group-title="TR ▹ Belgesel",NATIONAL GEOGRAPHIC
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/107.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://rexpicon.cfd/logo/TR/NatGEO-Wild_REX.png" group-title="TR ▹ Belgesel",NATIONAL GEOGRAPHIC WILD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/108.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR RAW" tvg-logo="https://rexpicon.cfd/logo/TR/TRTspor_REX.png" group-title="TR ▹ Spor",TRT SPOR RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/280.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TRTspor_fhd.png" group-title="TR ▹ Spor",TRT SPOR ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/281.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR" tvg-logo="https://rexpicon.cfd/logo/TR/TRTspor_hd.png" group-title="TR ▹ Spor",TRT SPOR
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513264.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trtsporyildiz.tr" tvg-name="TRT SPOR YILDIZ ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TRTspor-Yildiz_fhd.png" group-title="TR ▹ Spor",TRT SPOR YILDIZ ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/282.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="aspor.tr" tvg-name="A SPOR RAW" tvg-logo="https://rexpicon.cfd/logo/TR/Aspor_REX.png" group-title="TR ▹ Spor",A SPOR RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/277.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="aspor.tr" tvg-name="A SPOR ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Aspor_fhd.png" group-title="TR ▹ Spor",A SPOR ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/278.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="A Spor Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",A Spor Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1485.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/beIN-Haber_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS HABER ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/221.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport1_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 1 SD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/223.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport1_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/612045.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport1_fhd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 1 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/225.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 1 (Transcode)" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport1_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 1 (Transcode)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/580717.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 TİCARİ (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport1_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 1 TİCARİ (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/509480.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1+ (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport1_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 1+ (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/227.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 EUROPA" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport1_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 1 EUROPA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/518569.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://i.ibb.co/sdK8F5Ng/image.png" group-title="AR ▹ Arabia Sport",beIN SPORTS 1 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568140.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport2_hd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/232.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport2_fhd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 2 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/231.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2+ (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport2_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 2+ (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/230.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://i.ibb.co/prJmcrKg/image.png" group-title="AR ▹ Arabia Sport",beIN SPORTS 2 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568141.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport3_hd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/235.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport3_fhd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 3 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/234.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3+ (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport3_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 3+ (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/233.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://i.ibb.co/Vpq92fGH/image.png" group-title="AR ▹ Arabia Sport",beIN SPORTS 3 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568142.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 4K+ (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beIN-4K_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 4K+ (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/509468.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport4_hd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 4
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/238.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport4_fhd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 4 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/237.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4+ (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport4_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 4+ (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/236.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://i.ibb.co/0yDt8PQv/image.png" group-title="AR ▹ Arabia Sport",beIN SPORTS 4 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568143.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports5.tr" tvg-name="beIN SPORTS 5" tvg-logo="https://rexpicon.cfd/logo/TR/beIN_SPORTS5_hd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 5
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/241.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports5.tr" tvg-name="beIN SPORTS 5 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/beIN_SPORTS5_fhd.png" group-title="TR ▹ beIN Sports",beIN SPORTS 5 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/240.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsports5.tr" tvg-name="beIN SPORTS 5+ (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beIN_SPORTS5_REX.png" group-title="TR ▹ beIN Sports",beIN SPORTS 5+ (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/239.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.ibb.co/MDY1CJp7/image.png" group-title="AR ▹ Arabia Sport",beIN SPORTS 5 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568144.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport_Max1_fhd.png" group-title="TR ▹ beIN Sports",beIN SPORTS MAX 1 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/242.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport_Max1_hd.png" group-title="TR ▹ beIN Sports",beIN SPORTS MAX 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/243.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS MAX 1 FHD" tvg-logo="" group-title="AR ▹ Arabia Sport",beIN SPORTS MAX 1 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/607743.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport_Max2_fhd.png" group-title="TR ▹ beIN Sports",beIN SPORTS MAX 2 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/244.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_Sport_Max2_hd.png" group-title="TR ▹ beIN Sports",beIN SPORTS MAX 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/245.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS MAX 2 FHD" tvg-logo="" group-title="AR ▹ Arabia Sport",beIN SPORTS MAX 2 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/607746.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ssport.tr" tvg-name="TR: S Sport 1 [PREMIUM]" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport1_REX.png" group-title="TR ▹ S Sport+",TR: S Sport 1 [PREMIUM]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/256.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ssport.tr" tvg-name="TR: S Sport 1 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport1_fhd.png" group-title="TR ▹ S Sport+",TR: S Sport 1 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/257.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ssport.tr" tvg-name="TR: S Sport 1 [HD]" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport1_hd.png" group-title="TR ▹ S Sport+",TR: S Sport 1 [HD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/258.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ssport2.tr" tvg-name="TR: S Sport 2 [PREMIUM]" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport2_REX.png" group-title="TR ▹ S Sport+",TR: S Sport 2 [PREMIUM]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/259.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ssport2.tr" tvg-name="TR: S Sport 2 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport2_fhd.png" group-title="TR ▹ S Sport+",TR: S Sport 2 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513262.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ssport2.tr" tvg-name="TR: S Sport 2 [HD]" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport2_hd.png" group-title="TR ▹ S Sport+",TR: S Sport 2 [HD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/260.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBU SPOR 1 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor1_fhd.png" group-title="TR ▹ Spor",TİVİBU SPOR 1 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/272.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor1_fhd.png" group-title="TR ▹ Spor",TİVİBU SPOR 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/544619.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBU SPOR 2 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor2_fhd.png" group-title="TR ▹ Spor",TİVİBU SPOR 2 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/274.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT Diyanet Çocuk" tvg-logo="https://rexpicon.cfd/logo/TR/TRTdiyanetcocuk_REX.png" group-title="TR ▹ Çocuk",TRT Diyanet Çocuk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/125.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DİYANET TV" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpjLvJoQiLFkp4Dr304s9EPbeMd5BSunpMxsnRbNpKMsR8txHB61VmEdR45qVk-OJW05fgcB4XcQpt62dMzfUWs36dY5JGU9GykL25AKZLQVg4u5MitMp1IjhtYZd5j_Ufw.png" group-title="TR ▹ Dini",DİYANET TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/158.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trtkurdi.tr" tvg-name="TRT KURDİ" tvg-logo="https://rexpicon.cfd/logo/TR/TRTkurdi_REX.png" group-title="TR ▹ Ulusal",TRT KURDİ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/39.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT 4K" tvg-logo="https://rexpicon.cfd/logo/TR/TRT4K_REX.png" group-title="TR ▹ Ulusal",TRT 4K
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/33.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trt1.tr" tvg-name="TRT 1 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TRT1_fhd.png" group-title="TR ▹ Ulusal",TRT 1 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/2.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trt2.tr" tvg-name="TRT2 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TRT2_fhd.png" group-title="TR ▹ Ulusal",TRT2 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/34.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trtturk.tr" tvg-name="TRT TÜRK" tvg-logo="https://rexpicon.cfd/logo/TR/TRTturk_REX.png" group-title="TR ▹ Ulusal",TRT TÜRK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/36.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trtavaz.tr" tvg-name="TRT AVAZ" tvg-logo="https://rexpicon.cfd/logo/TR/TRTavaz_REX.png" group-title="TR ▹ Ulusal",TRT AVAZ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/37.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT ARABI" tvg-logo="https://rexpicon.cfd/logo/TR/TRTarabi_REX.png" group-title="TR ▹ Ulusal",TRT ARABI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/38.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT EBA" tvg-logo="https://rexpicon.cfd/logo/TR/TRTeba_REX.png" group-title="TR ▹ Ulusal",TRT EBA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/40.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT GENC " tvg-logo="https://i.ibb.co/BHQHgpDX/imgi-1-Kanaldosya-getir.png" group-title="TR ▹ Ulusal",TRT GENC
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/608639.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trt1.tr" tvg-name="TRT 1 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/TRT1_REX.png" group-title="TR ▹ Ulusal RAW",TRT 1 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512591.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER RAW" tvg-logo="https://rexpicon.cfd/logo/TR/TRThaber_REX.png" group-title="TR ▹ Ulusal RAW",TRT HABER RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517176.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TRThaber_fhd.png" group-title="TR ▹ Haber",TRT HABER ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/94.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT MÜZİK ᴴᴰ" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpojMFjiGVQxiXPtNs7gNEiotVaAGx__BGZumeE1nwsXFY8AgvAl_r5rUknQ7l_mWUoxwFqMalA3cw3s4LYXIYmk.png" group-title="TR ▹ Müzik",TRT MÜZİK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/150.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRT Radyo Haber" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",TRT Radyo Haber
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1438.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="atv.tr" tvg-name="ATV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/ATV_fhd.png" group-title="TR ▹ Ulusal",ATV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/8.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="showtv.tr" tvg-name="SHOW TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/ShowTV_fhd.png" group-title="TR ▹ Ulusal",SHOW TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/10.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="startv.tr" tvg-name="STAR TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/StarTV_fhd.png" group-title="TR ▹ Ulusal",STAR TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/6.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="kanald.tr" tvg-name="KANAL D ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/KanalD_fhd.png" group-title="TR ▹ Ulusal",KANAL D ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="now.tr" tvg-name="NOW ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/NOW_fhd.png" group-title="TR ▹ Ulusal",NOW ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/12.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv8.tr" tvg-name="TV 8 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TV8_fhd.png" group-title="TR ▹ Ulusal",TV 8 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/14.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Kanal7_fhd.png" group-title="TR ▹ Ulusal",KANAL 7 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/27.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 7 Avrupa" tvg-logo="https://i.ibb.co/ZzfLSs7C/images.png" group-title="TR ▹ Ulusal",KANAL 7 Avrupa
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/592539.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv4.tr" tvg-name="TV4 " tvg-logo="https://rexpicon.cfd/logo/TR/TV4_fhd.png" group-title="TR ▹ Ulusal",TV4
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/31.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv4.tr" tvg-name="TV4" tvg-logo="https://rexpicon.cfd/logo/TR/TV4_hd.png" group-title="TR ▹ Ulusal",TV4
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/32.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TBMM TV" tvg-logo="https://rexpicon.cfd/logo/TR/TBMMtv_REX.png" group-title="TR ▹ Ulusal",TBMM TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/42.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TYT TÜRK" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="TR ▹ Ulusal",TYT TÜRK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/562328.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL AVRUPA" tvg-logo="https://rexpicon.cfd/logo/TR/KanalAvrupa_REX.png" group-title="TR ▹ Ulusal",KANAL AVRUPA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/41.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SAT7 TÜRK ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/sat7turk_REX.png" group-title="TR ▹ Ulusal",SAT7 TÜRK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/43.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SHOW TÜRK" tvg-logo="https://rexpicon.cfd/logo/TR/ShowTurk_REX.png" group-title="TR ▹ Ulusal",SHOW TÜRK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/45.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="showmax.tr" tvg-name="SHOW MAX" tvg-logo="https://rexpicon.cfd/logo/TR/ShowMax_REX.png" group-title="TR ▹ Ulusal",SHOW MAX
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/44.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ATV AVRUPA" tvg-logo="https://rexpicon.cfd/logo/TR/ATVavrupa.png" group-title="TR ▹ Ulusal",ATV AVRUPA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/538028.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Euro D" tvg-logo="https://tvchannelslist.site/logo/eurod.png" group-title="TR ▹ Ulusal",Euro D
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/592545.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV8 INT" tvg-logo="https://rexpicon.cfd/logo/TR/TV8int.png" group-title="TR ▹ Ulusal",TV8 INT
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/538029.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bi KANAL" tvg-logo="https://www.bikanal.com/frontend/img/logo.png" group-title="TR ▹ Ulusal",Bi KANAL
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/576977.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİ 6" tvg-logo="https://rexpicon.cfd/logo/TR/tivi6_REX.png" group-title="TR ▹ Ulusal",TİVİ 6
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/46.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/4ab475ba347ff4eda09e88808b07623b.png" group-title="TR ▹ Ulusal",CINE 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/563352.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ONS TV" tvg-logo="" group-title="TR ▹ Ulusal",ONS TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/574905.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="atv.tr" tvg-name="ATV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/ATV_REX.png" group-title="TR ▹ Ulusal RAW",ATV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512594.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="showtv.tr" tvg-name="SHOW TV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/ShowTV_REX.png" group-title="TR ▹ Ulusal RAW",SHOW TV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512595.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="startv.tr" tvg-name="STAR TV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/StarTV_REX.png" group-title="TR ▹ Ulusal RAW",STAR TV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512593.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="kanald.tr" tvg-name="KANAL D RAW" tvg-logo="https://rexpicon.cfd/logo/TR/KanalD_REX.png" group-title="TR ▹ Ulusal RAW",KANAL D RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512592.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="now.tr" tvg-name="NOW TV RAW" tvg-logo="https://rexpicon.cfd/logo/TR/NOW_REX.png" group-title="TR ▹ Ulusal RAW",NOW TV RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512596.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv8.tr" tvg-name="TV 8 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/TV8_REX.png" group-title="TR ▹ Ulusal RAW",TV 8 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512597.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/Kanal7_REX.png" group-title="TR ▹ Ulusal RAW",KANAL 7 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517168.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/teve2_REX.png" group-title="TR ▹ Ulusal RAW",TEVE 2 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517170.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK RAW" tvg-logo="https://rexpicon.cfd/logo/TR/CNNturk_REX.png" group-title="TR ▹ Ulusal RAW",CNN TURK RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517178.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL RAW" tvg-logo="https://rexpicon.cfd/logo/TR/Haber-Global_REX.png" group-title="TR ▹ Ulusal RAW",HABER GLOBAL RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517179.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG RAW" tvg-logo="https://rexpicon.cfd/logo/TR/BloombergHT_REX.png" group-title="TR ▹ Ulusal RAW",BLOOMBERG RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517182.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="24.tr" tvg-name="24 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/24tv_REX.png" group-title="TR ▹ Ulusal RAW",24 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517183.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV 100 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/tv100_REX.png" group-title="TR ▹ Ulusal RAW",TV 100 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/576917.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Haber-Global_REX.png" group-title="TR ▹ Haber",HABER GLOBAL ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/82.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tv100.tr" tvg-name="TV100" tvg-logo="https://rexpicon.cfd/logo/TR/tv100_REX.png" group-title="TR ▹ Haber",TV100
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513265.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/BloombergHT_fhd.png" group-title="TR ▹ Haber",BLOOMBERG HT ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/77.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://rexpicon.cfd/logo/TR/BloombergHT_hd.png" group-title="TR ▹ Haber",BLOOMBERG HT
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/78.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ILKE TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="TR ▹ Haber",ILKE TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/582466.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="flashhaber.tr" tvg-name="FLASH HABER ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/FlashHaber_fhd.png" group-title="TR ▹ Haber",FLASH HABER ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/25.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="flashhaber.tr" tvg-name="FLASH HABER" tvg-logo="https://rexpicon.cfd/logo/TR/FlashHaber_hd.png" group-title="TR ▹ Haber",FLASH HABER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/26.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CNBC-e ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/CNBC-e_fhd.png" group-title="TR ▹ Haber",CNBC-e ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/181.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CNBC-e" tvg-logo="https://rexpicon.cfd/logo/TR/CNBC-e_hd.png" group-title="TR ▹ Haber",CNBC-e
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513258.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ekol TV" tvg-logo="https://rexpicon.cfd/logo/TR/EKOLTV_REX.png" group-title="TR ▹ Haber",Ekol TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/182.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ulketv.tr" tvg-name="ÜLKE TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/ULKE_REX.png" group-title="TR ▹ Haber",ÜLKE TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/98.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="24.tr" tvg-name="24 TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/24tv_fhd.png" group-title="TR ▹ Haber",24 TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/70.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="24.tr" tvg-name="24 TV" tvg-logo="https://rexpicon.cfd/logo/TR/24tv_hd.png" group-title="TR ▹ Haber",24 TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/71.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="akit.tr" tvg-name="AKİT TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/AkitTV_REX.png" group-title="TR ▹ Haber",AKİT TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/75.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ulusalkanal.tr" tvg-name="ULUSAL KANAL ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/UlusalKanal_REX.png" group-title="TR ▹ Haber",ULUSAL KANAL ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/99.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="liderhaber.tv" tvg-name="Lider Haber" tvg-logo="https://rexpicon.cfd/logo/TR/LiderHaber_REX.png" group-title="TR ▹ Haber",Lider Haber
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/183.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="apara.tr" tvg-name="A PARA ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Apara_REX.png" group-title="TR ▹ Haber",A PARA ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/74.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ekoturk.tr" tvg-name="EKOTÜRK ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/EkoTurk_REX.png" group-title="TR ▹ Haber",EKOTÜRK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/81.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="tvnet.tr" tvg-name="TVNET ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/TVnet_REX.png" group-title="TR ▹ Haber",TVNET ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/97.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="benguturk.tr" tvg-name="BENGÜ TÜRK ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/BenguTurk_REX.png" group-title="TR ▹ Haber",BENGÜ TÜRK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/76.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="thturkhaber.tr" tvg-name="TÜRKHABER TV" tvg-logo="https://rexpicon.cfd/logo/TR/TurkHaber_REX.png" group-title="TR ▹ Haber",TÜRKHABER TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/96.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Can TV" tvg-logo="https://rexpicon.cfd/logo/TR/CAntv_REX.png" group-title="TR ▹ Haber",Can TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/184.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="YOLTV" tvg-name="Yol TV" tvg-logo="https://rexpicon.cfd/logo/TR/YOLtv_REX.png" group-title="TR ▹ Haber",Yol TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/185.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GZT TV" tvg-logo="https://rexpicon.cfd/logo/TR/GZT_REX.png" group-title="TR ▹ Haber",GZT TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/526530.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Neo Haber" tvg-logo="https://neohaber.com/assets/images/logo.png" group-title="TR ▹ Haber",Neo Haber
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/595820.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS ᴴᴰ" tvg-logo="https://i.imgur.com/s6so0Cj.png" group-title="TR ▹ beIN Sports",REX SPORTS ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/579807.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 1 (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 1 (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/246.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 2 (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 2 (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/247.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 4 (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 4 (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/248.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 5 (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 5 (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/249.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 6 (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 6 (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/250.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 3 (MAÇ ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 3 (MAÇ ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/316.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 7 (MAC ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 7 (MAC ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/526525.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 8 (MAC ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 8 (MAC ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/526526.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN CONNECT 9 (MAC ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/beINconnect_REX.png" group-title="TR ▹ beIN Sports",beIN CONNECT 9 (MAC ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/526527.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS" tvg-logo="https://i.imgur.com/opH56Sq.png" group-title="TR ▹ REX Sports Premium",REX SPORTS
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581182.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS TRANSCODE" tvg-logo="https://i.imgur.com/opH56Sq.png" group-title="TR ▹ REX Sports Premium",REX SPORTS TRANSCODE
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581181.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS HD TRANSCODE" tvg-logo="https://i.imgur.com/opH56Sq.png" group-title="TR ▹ REX Sports Premium",REX SPORTS HD TRANSCODE
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/582983.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORT 1 RAW" tvg-logo="https://i.imgur.com/vZQmOVR.png" group-title="TR ▹ REX Sports Premium",REX SPORT 1 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581175.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS 2 RAW" tvg-logo="https://i.imgur.com/dzvAxBu.png" group-title="TR ▹ REX Sports Premium",REX SPORTS 2 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581176.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS 3 RAW" tvg-logo="https://i.imgur.com/v9FKma0.png" group-title="TR ▹ REX Sports Premium",REX SPORTS 3 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581177.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS 4 RAW" tvg-logo="https://i.imgur.com/lZGFkSH.png" group-title="TR ▹ REX Sports Premium",REX SPORTS 4 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581178.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS 5 RAW" tvg-logo="https://i.imgur.com/9A9kags.png" group-title="TR ▹ REX Sports Premium",REX SPORTS 5 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581179.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX SPORTS 4K" tvg-logo="https://i.imgur.com/kDhsWFl.png" group-title="TR ▹ REX Sports Premium",REX SPORTS 4K
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581180.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Go3 Sport - 1 (Feed Event Only)" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/02/14111117/Go3_logo_RGB_01.png" group-title="TR ▹ REX Sports Premium",Go3 Sport - 1 (Feed Event Only)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598428.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Go3 Sport - 2 (Feed Event Only)" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/02/14111117/Go3_logo_RGB_01.png" group-title="TR ▹ REX Sports Premium",Go3 Sport - 2 (Feed Event Only)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598429.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Go3 Sport - 3 (Feed Event Only)" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/02/14111117/Go3_logo_RGB_01.png" group-title="TR ▹ REX Sports Premium",Go3 Sport - 3 (Feed Event Only)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598430.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HT SPOR" tvg-logo="https://rexpicon.cfd/logo/TR/HTspor_REX.png" group-title="TR ▹ Spor",HT SPOR
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513441.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HT SPOR" tvg-logo="https://rexpicon.cfd/logo/TR/HTspor_REX.png" group-title="TR ▹ Spor",HT SPOR
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/579152.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HT SPOR [KOTA DOSTU]" tvg-logo="https://rexpicon.cfd/logo/TR/HTspor_REX.png" group-title="TR ▹ Spor",HT SPOR [KOTA DOSTU]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/579151.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="smartspor.tr" tvg-name="SPOR SMART 1 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/SporSmart_REX.png" group-title="TR ▹ Spor",SPOR SMART 1 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/251.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="smartspor.tr" tvg-name="SPOR SMART 1 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/SporSmart_fhd.png" group-title="TR ▹ Spor",SPOR SMART 1 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/252.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="smartspor.tr" tvg-name="SPOR SMART 1" tvg-logo="https://rexpicon.cfd/logo/TR/SporSmart_hd.png" group-title="TR ▹ Spor",SPOR SMART 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/253.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SPOR SMART 2 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/SporSmart2_REX.png" group-title="TR ▹ Spor",SPOR SMART 2 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/254.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SPOR SMART 2" tvg-logo="https://rexpicon.cfd/logo/TR/SporSmart2_hd.png" group-title="TR ▹ Spor",SPOR SMART 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/255.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 RAW" tvg-logo="https://rexpicon.cfd/logo/TR/EUROSPORT1_REX.png" group-title="TR ▹ Spor",EUROSPORT 1 RAW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/267.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/EUROSPORT1_fhd.png" group-title="TR ▹ Spor",EUROSPORT 1 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/268.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/EUROSPORT2_fhd.png" group-title="TR ▹ Spor",EUROSPORT 2 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/270.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBUSPOR 2" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor2_fhd.png" group-title="TR ▹ Spor",TİVİBUSPOR 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/544620.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBU SPOR 3 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor3_fhd.png" group-title="TR ▹ Spor",TİVİBU SPOR 3 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/275.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBUSPOR 3" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor3_fhd.png" group-title="TR ▹ Spor",TİVİBUSPOR 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/544621.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBU SPOR 4 ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor4_fhd.png" group-title="TR ▹ Spor",TİVİBU SPOR 4 ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/276.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TİVİBUSPOR 4" tvg-logo="https://rexpicon.cfd/logo/TR/Tivibuspor4_fhd.png" group-title="TR ▹ Spor",TİVİBUSPOR 4
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/544622.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Filspor 1 (Sadece Etkinlik)" tvg-logo="https://cdn.filbox.com.tr/channellogos/1733496505695-logo.png" group-title="TR ▹ Spor",TR: Filspor 1 (Sadece Etkinlik)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/585012.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Filspor 2 (Sadece Etkinlik)" tvg-logo="https://cdn.filbox.com.tr/channellogos/1759301979594-logo.png" group-title="TR ▹ Spor",TR: Filspor 2 (Sadece Etkinlik)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/585013.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Filspor 3 (Sadece Etkinlik)" tvg-logo="https://cdn.filbox.com.tr/channellogos/1759301987493-logo.png" group-title="TR ▹ Spor",TR: Filspor 3 (Sadece Etkinlik)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/585014.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Filspor 4 (Sadece Etkinlik)" tvg-logo="https://cdn.filbox.com.tr/channellogos/1759301996151-logo.png" group-title="TR ▹ Spor",TR: Filspor 4 (Sadece Etkinlik)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/585015.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MAX (SADECE ETKINLIKTE CANLI)" tvg-logo="https://images.cdn.prd.api.discomax.com/05b7/3d4a7e2b0215.png" group-title="TR ▹ Spor",MAX (SADECE ETKINLIKTE CANLI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/571796.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="fbtv.tr" tvg-name="FB TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/FBtv_REX.png" group-title="TR ▹ Spor",FB TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/283.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="nbatv.tr" tvg-name="NBA TV ᴴᴰ" tvg-logo="https://rexpicon.cfd/logo/TR/NBAtv_REX.png" group-title="TR ▹ Spor",NBA TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/284.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EKOL SPOR" tvg-logo="" group-title="TR ▹ Spor",EKOL SPOR
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/578093.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REDBULL TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/red-bull-tv-int.png" group-title="TR ▹ Spor",REDBULL TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/548614.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="FİGHT BOX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/7f4b6b73ae00fc12673c82dcc4891361.png" group-title="TR ▹ Spor",FİGHT BOX
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/548618.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SIFIR TV" tvg-logo="" group-title="TR ▹ Spor",SIFIR TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581741.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tay TV" tvg-logo="" group-title="TR ▹ Spor",Tay TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/582427.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 1" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/261.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 1+ (MAC ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 1+ (MAC ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/580450.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 2" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/262.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 2+ (MAC ZAMANI)" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 2+ (MAC ZAMANI)
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/580451.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 3" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/263.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 4" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 4
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/264.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 5" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 5
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/265.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: S Sport PLUS 6" tvg-logo="https://rexpicon.cfd/logo/TR/Ssport%2B_REX.png" group-title="TR ▹ S Sport+",TR: S Sport PLUS 6
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/266.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABii SPOR HD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABii SPOR HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/289.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABİİ SPOR FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABİİ SPOR FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/288.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABİİ SPOR 2K" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABİİ SPOR 2K
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598541.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABİİ SPOR 1 HD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor1_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABİİ SPOR 1 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517440.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 1 FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor1_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 1 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/290.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 1 2K" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor1_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 1 2K
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598542.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 2 HD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor2_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 2 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517441.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 2 FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor2_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 2 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/291.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 2 2K" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor2_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 2 2K
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598543.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 3 HD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor3_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 3 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/517442.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 3 FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor3_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 3 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/292.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 3 2K" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor3_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 3 2K
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598544.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 4 HD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor4_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 4 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/518463.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 4 FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor4_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 4 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/293.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 5 HD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor5_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 5 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/518464.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 5 FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor5_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 5 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/294.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 6 HD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor6_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 6 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/518465.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 6 FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor6_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 6 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/295.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 7 FHD" tvg-logo="https://rexpicon.cfd/logo/TR/tabiispor_hd.png" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 7 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581731.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: TABII SPOR 8 FHD" tvg-logo="" group-title="TR ▹ Tabii - Exxen",TR: TABII SPOR 8 FHD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/610039.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UEFA CBC Sport" tvg-logo="https://rexpicon.cfd/logo/TR/CBCsport_REX.png" group-title="TR ▹ Tabii - Exxen",UEFA CBC Sport
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/315.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 1 [HD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_hd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 1 [HD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/299.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 1 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 1 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/298.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 1 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 1 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/297.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 2 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 2 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/302.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 2 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 2 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/301.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 3 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 3 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/304.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 3 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 3 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/303.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 4 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 4 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/306.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 4 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 4 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/305.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 5 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 5 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/308.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 5 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 5 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/307.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 6 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 6 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/310.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 6 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 6 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/309.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 7 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 7 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/312.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 7 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 7 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/311.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 8 [FHD]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_fhd.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 8 [FHD]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/314.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: Exxen SPOR 8 [RAW]" tvg-logo="https://rexpicon.cfd/logo/TR/Exxen_REX.png" group-title="TR ▹ Tabii - Exxen",TR: Exxen SPOR 8 [RAW]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/313.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="64 Kare Ülkesi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",64 Kare Ülkesi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537337.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Adalet Birliği" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Adalet Birliği
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4057.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Adisebaba Masallar" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Adisebaba Masallar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537327.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Alvin Ve Sincaplar" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Alvin Ve Sincaplar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4058.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Alvinnn" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Alvinnn
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4017.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Angry Birds TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Angry Birds TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537342.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Animasyon 1 HD" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Animasyon 1 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537375.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Arabalar" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Arabalar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/526833.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Arı Maya" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Arı Maya
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4030.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Aslan Kral" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Aslan Kral
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4060.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Avatar TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Avatar TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537341.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Azoomee" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Azoomee
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537353.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Baby TV" tvg-logo="https://rexpicon.cfd/logo/TR/BabyTV_REX.png" group-title="TR ▹ Çocuk",Baby TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/114.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Barbie" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Barbie
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/465.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Batman" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Batman
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4063.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Binbir Masal" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Binbir Masal
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537332.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bluey TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Bluey TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537346.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Booba" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Booba
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4003.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BOSS ANiMASYON" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",BOSS ANiMASYON
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547456.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Buz Devri" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Buz Devri
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/470699.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Canım Kardeşim" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Canım Kardeşim
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4011.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cartoonito" tvg-logo="https://rexpicon.cfd/logo/TR/Cartoonito_REX.png" group-title="TR ▹ Çocuk",Cartoonito
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/116.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cbeebies" tvg-logo="https://rexpicon.cfd/logo/TR/BBCcbeebies_REX.png" group-title="TR ▹ Çocuk",Cbeebies
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1128.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cine Gold Animasyon HD" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Cine Gold Animasyon HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/521610.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Da Vinci" tvg-logo="https://rexpicon.cfd/logo/TR/DaVinci_REX.png" group-title="TR ▹ Çocuk",Da Vinci
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/117.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Demir Adam" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Demir Adam
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1139.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Disney Junior" tvg-logo="https://rexpicon.cfd/logo/TR/DisneyJR_REX.png" group-title="TR ▹ Çocuk",Disney Junior
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/118.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ege İle Gaga" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Ege İle Gaga
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/521671.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ENO ANIMASYON 1" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",ENO ANIMASYON 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547431.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ENO ANIMASYON 2" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",ENO ANIMASYON 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547432.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ENO ANIMASYON 3" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",ENO ANIMASYON 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547433.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gabby’s Dollhouse TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Gabby’s Dollhouse TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537349.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Güldüy Güldüy Çocuk" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Güldüy Güldüy Çocuk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4054.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hapsu" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Hapsu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4126.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hapsuu" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Hapsuu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537328.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Heidi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Heidi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4036.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hot Wheels" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Hot Wheels
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4114.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jetgiller" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Jetgiller
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4044.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jurassic World" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Jurassic World
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1143.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kare" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Kare
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537330.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Karlar Ülkesi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Karlar Ülkesi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/474.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Keloğlan Masalları" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Keloğlan Masalları
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1144.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Konuşan Tom" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Konuşan Tom
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/516838.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Koyun Shaun TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Koyun Shaun TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537347.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kukuli" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Kukuli
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1146.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lego DC" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Lego DC
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/477.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Limon İle Zeytin" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Limon İle Zeytin
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4012.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LIONBOX CAILLOU" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",LIONBOX CAILLOU
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/570528.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Maşa İle Koca Ayı" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Maşa İle Koca Ayı
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4013.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mighty Little Bheem TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Mighty Little Bheem TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537343.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Molang TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Molang TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537484.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Moonbug Kids" tvg-logo="https://rexpicon.cfd/logo/TR/MoonbugKids_REX.png" group-title="TR ▹ Çocuk",Moonbug Kids
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/122.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Müfettiş Gadget" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Müfettiş Gadget
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4016.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nick Jr." tvg-logo="https://rexpicon.cfd/logo/TR/NickJR_REX.png" group-title="TR ▹ Çocuk",Nick Jr.
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/509896.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://rexpicon.cfd/logo/TR/Nickelodeon_REX.png" group-title="TR ▹ Çocuk",Nickelodeon
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1122.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nicktoons" tvg-logo="https://rexpicon.cfd/logo/TR/Nicktoons_REX.png" group-title="TR ▹ Çocuk",Nicktoons
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/123.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ninjago TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Ninjago TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537344.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Oggy TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Oggy TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537352.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="One Piece" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",One Piece
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/480.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Oscar Çöllerde TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Oscar Çöllerde TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537340.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Otel Transilvanya" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Otel Transilvanya
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/481.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Oyuncak Hikayesi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Oyuncak Hikayesi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4089.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Paw Patrol" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Paw Patrol
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/516837.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pepee" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Pepee
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1148.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Peppa Pig
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4015.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Peri Masalları" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Peri Masalları
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/570529.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pericik Günlükleri" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Pericik Günlükleri
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1149.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pijamaskeliler" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Pijamaskeliler
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4020.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pırıl TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Pırıl TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537339.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pisi TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Pisi TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537335.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REALBOX-ANIMASYON" tvg-logo="" group-title="TR ▹ Çocuk",REALBOX-ANIMASYON
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569705.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Redbox Animasyon" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Redbox Animasyon
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/961.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Redkit" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Redkit
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1150.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | ANIMASYON 1" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | ANIMASYON 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575286.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | ANIMASYON 2" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | ANIMASYON 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575287.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | ANIMASYON 3" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | ANIMASYON 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575288.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Ördek Hikayeleri" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Ördek Hikayeleri
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575419.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Scooby-Doo!" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Scooby-Doo!
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1151.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Seker Hoca Güncel" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Seker Hoca Güncel
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/580018.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sevimli Dostlar" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Sevimli Dostlar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1132.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sihirli Kanal" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Sihirli Kanal
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/486.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sihirli Okul Otobüsü TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Sihirli Okul Otobüsü TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537351.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sinebox Animasyon 1" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Sinebox Animasyon 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/530221.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sinebox Animasyon 2" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Sinebox Animasyon 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/530222.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Smart Çocuk" tvg-logo="https://rexpicon.cfd/logo/TR/CocukSmart_REX.png" group-title="TR ▹ Çocuk",Smart Çocuk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1129.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sunny Bunnies TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Sunny Bunnies TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537338.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Süngerbob" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Süngerbob
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4097.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Süper Kahramanlar" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Süper Kahramanlar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/473.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tabii Çocuk" tvg-logo="https://i.ibb.co/60Jqvh0g/image.png" group-title="TR ▹ Çocuk",Tabii Çocuk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581896.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tayo TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Tayo TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537336.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Teen Titans TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Teen Titans TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537485.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Temel Reis" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Temel Reis
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/516834.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Legend Of Korra TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",The Legend Of Korra TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537486.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tinker Bell" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Tinker Bell
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/489.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tom Ve Jerry" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Tom Ve Jerry
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1152.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Animasyon 1" tvg-logo="https://i.ibb.co/hJ7qNnfG/animasyon1.png" group-title="TR ▹ Çocuk",TR:CineZiport Animasyon 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581076.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Animasyon 2" tvg-logo="https://i.ibb.co/PyQvwYx/animasyon2.png" group-title="TR ▹ Çocuk",TR:CineZiport Animasyon 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581077.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Buz Devri" tvg-logo="https://i.ibb.co/fGYXx10C/buzdevri.png" group-title="TR ▹ Çocuk",TR:CineZiport Buz Devri
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581079.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Cars" tvg-logo="https://i.ibb.co/5hxg58bT/arabalar.png" group-title="TR ▹ Çocuk",TR:CineZiport Cars
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581081.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Family Guy" tvg-logo="https://i.ibb.co/bM5TM827/familyguy.png" group-title="TR ▹ Çocuk",TR:CineZiport Family Guy
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581085.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Garfield" tvg-logo="https://i.ibb.co/Y7qQJSmQ/garfield.png" group-title="TR ▹ Çocuk",TR:CineZiport Garfield
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581087.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Gumball" tvg-logo="https://i.ibb.co/1thccv7H/gumball.png" group-title="TR ▹ Çocuk",TR:CineZiport Gumball
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581089.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Kral Sakir" tvg-logo="https://i.ibb.co/8gzBzNg1/kralsakir.png" group-title="TR ▹ Çocuk",TR:CineZiport Kral Sakir
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581100.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Simpsons" tvg-logo="https://i.ibb.co/RXWYsSJ/simpsons.png" group-title="TR ▹ Çocuk",TR:CineZiport Simpsons
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581105.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Sirinler" tvg-logo="https://i.ibb.co/d447J8xb/siinler.png" group-title="TR ▹ Çocuk",TR:CineZiport Sirinler
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581106.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport South Park" tvg-logo="https://i.ibb.co/jPj49C4b/south-park.png" group-title="TR ▹ Çocuk",TR:CineZiport South Park
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581107.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:CineZiport Sunger Bob" tvg-logo="https://i.ibb.co/DH18BQrN/sungerbob.png" group-title="TR ▹ Çocuk",TR:CineZiport Sunger Bob
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581108.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Transformers" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Transformers
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4037.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Trol Avcıları TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Trol Avcıları TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537487.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ultra Animasyon" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Ultra Animasyon
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513384.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vikingler TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Vikingler TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537345.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Wakfu" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Wakfu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4337.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Yıldız Kız TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Yıldız Kız TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537348.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Çılgın Orman TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Çılgın Orman TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537350.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Çocuk İlahileri TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Çocuk İlahileri TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537334.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="İnanılmaz Aile" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",İnanılmaz Aile
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/472.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Şeker Hoca" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Şeker Hoca
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4010.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Şirinler" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Şirinler
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/4027.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Şrek" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",Şrek
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/485.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Beyblade" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Beyblade
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575272.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Inanilmaz Aile" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Inanilmaz Aile
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575190.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Cilgin Hirsiz" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Cilgin Hirsiz
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575189.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Forky" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Forky
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575188.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Cilgin Dostlar" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Cilgin Dostlar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575187.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Charlie'nin Renkli Dünyası" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Charlie'nin Renkli Dünyası
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575180.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Tom and Jerry in New York" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Tom and Jerry in New York
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575178.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Patron Bebek" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Patron Bebek
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575177.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Supertato" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Supertato
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575176.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Yaz Kampi Adasi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Yaz Kampi Adasi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575175.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Sonic" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Sonic
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575174.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Sirinler" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Sirinler
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575172.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Richie Rich" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Richie Rich
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575171.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Rafadan Tayfa" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Rafadan Tayfa
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575170.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Pokemon" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Pokemon
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575168.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Pisi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Pisi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575167.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Niloya" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Niloya
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575166.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Minik Harikalar" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Minik Harikalar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575164.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Minegreen" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Minegreen
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575163.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Mickey Mouse" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Mickey Mouse
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575162.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Kostebekgiller" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Kostebekgiller
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575161.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Kaptan Pengu ve Arkadaslari" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Kaptan Pengu ve Arkadaslari
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575160.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Hayalet Kopekler" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Hayalet Kopekler
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575159.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Gumball’ın Muhteşem Dünyası" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Gumball’ın Muhteşem Dünyası
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575158.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Elifin Dusleri" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Elifin Dusleri
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575157.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Ejderha Kurtarma Ekibi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Ejderha Kurtarma Ekibi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575156.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Cry Babies" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Cry Babies
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575155.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Can Bebek" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Can Bebek
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575154.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Akilli Tavsan Momo" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Akilli Tavsan Momo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575151.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | The Legend of Korra" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | The Legend of Korra
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575150.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Masa ile Koca Ayi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Masa ile Koca Ayi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575141.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Kung Fu Panda" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Kung Fu Panda
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575140.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Shrek" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Shrek
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575138.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Kral Şakir" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Kral Şakir
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/575135.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Gupi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Gupi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/587859.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Kim Demis Kotuyuz Diye?" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Kim Demis Kotuyuz Diye?
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/588945.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REX-KiDS | Yarasa Ailesi" tvg-logo="https://rexpicon.cfd/logo/TR/REXcocuk.png" group-title="TR ▹ Çocuk",REX-KiDS | Yarasa Ailesi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/592319.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ANIMAUX" tvg-logo="https://rexpicon.cfd/logo/TR/Animaux_REX.png" group-title="TR ▹ Belgesel",ANIMAUX
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/204.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://rexpicon.cfd/logo/TR/BBCearth_REX.png" group-title="TR ▹ Belgesel",BBC EARTH
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/188.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VIASAT HISTORY" tvg-logo="https://rexpicon.cfd/logo/TR/ViasatHistory_REX.png" group-title="TR ▹ Belgesel",VIASAT HISTORY
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/113.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VIASAT EXPLORE" tvg-logo="https://rexpicon.cfd/logo/TR/ViasatExplore_REX.png" group-title="TR ▹ Belgesel",VIASAT EXPLORE
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/112.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://rexpicon.cfd/logo/TR/LoveNature_REX.png" group-title="TR ▹ Belgesel",LOVE NATURE
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/105.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DOCUBOX" tvg-logo="https://rexpicon.cfd/logo/TR/Docubox_REX.png" group-title="TR ▹ Belgesel",DOCUBOX
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/189.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BEIN H&E" tvg-logo="https://rexpicon.cfd/logo/TR/Bein_HE_REX.png" group-title="TR ▹ Belgesel",BEIN H&E
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/520983.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BEIN İZ" tvg-logo="https://rexpicon.cfd/logo/TR/bein_iz_REX.png" group-title="TR ▹ Belgesel",BEIN İZ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/192.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TARİH TV" tvg-logo="https://rexpicon.cfd/logo/TR/TarihTV_REX.png" group-title="TR ▹ Belgesel",TARİH TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/109.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HABİTAT TV" tvg-logo="https://rexpicon.cfd/logo/TR/Habitat_REX.png" group-title="TR ▹ Belgesel",HABİTAT TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/199.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DA VINCI LEARNING" tvg-logo="http://img-cdn.curl.pk:8880/chimg/7538510553.png" group-title="TR ▹ Belgesel",DA VINCI LEARNING
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/598823.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ÇİFTÇİ TV" tvg-logo="https://rexpicon.cfd/logo/TR/CiftciTV_REX.png" group-title="TR ▹ Belgesel",ÇİFTÇİ TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/197.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KÖY TV" tvg-logo="https://rexpicon.cfd/logo/TR/KoyTV_REX.png" group-title="TR ▹ Belgesel",KÖY TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/195.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AGRO TV" tvg-logo="https://rexpicon.cfd/logo/TR/AgroTV_REX.png" group-title="TR ▹ Belgesel",AGRO TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/198.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TARIM TV" tvg-logo="https://rexpicon.cfd/logo/TR/Tar%C4%B1mTV_REX.png" group-title="TR ▹ Belgesel",TARIM TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513263.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Uçak Kazası Raporu" tvg-logo="" group-title="TR ▹ Belgesel",Uçak Kazası Raporu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/605670.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DOĞADAKİ İNSAN" tvg-logo="https://rexpicon.cfd/logo/TR/Belgesel_REX.png" group-title="TR ▹ Belgesel",DOĞADAKİ İNSAN
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/544296.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EZGİ SERTEL İLE LEZZETİN HARİTASI [7/24]" tvg-logo="https://rexpicon.cfd/logo/TR/Belgesel_REX.png" group-title="TR ▹ Belgesel",EZGİ SERTEL İLE LEZZETİN HARİTASI [7/24]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/516671.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="YİYECEĞİN SERÜVENİ [7/24]" tvg-logo="https://rexpicon.cfd/logo/TR/Belgesel_REX.png" group-title="TR ▹ Belgesel",YİYECEĞİN SERÜVENİ [7/24]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/524064.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HAYVAN BELGESELLERİ [7/24]" tvg-logo="https://rexpicon.cfd/logo/TR/Belgesel_REX.png" group-title="TR ▹ Belgesel",HAYVAN BELGESELLERİ [7/24]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/516672.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UZAY BELGESELLERİ [7/24]" tvg-logo="https://rexpicon.cfd/logo/TR/Belgesel_REX.png" group-title="TR ▹ Belgesel",UZAY BELGESELLERİ [7/24]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/516681.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DOĞA BELGESELLERİ [7/24]" tvg-logo="https://rexpicon.cfd/logo/TR/Belgesel_REX.png" group-title="TR ▹ Belgesel",DOĞA BELGESELLERİ [7/24]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/516684.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tivi Life" tvg-logo="https://yt3.googleusercontent.com/mUKU6kuB7I2cJuX-TwIpPAruNEnT3tftagnI5xGlI_0ac-il--FyI-AQ35ssrIQkKIB1vz1uuw=s900-c-k-c0x00ffffff-no-rj" group-title="TR ▹ Belgesel",Tivi Life
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/581118.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DREAM TÜRK ᴴᴰ" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpjFbhvKNo3ZuVkd7VcRRidqJ2bCxp4QUtPwJ0UELgKJFHoBT0lbPorEt2Dsdrju-_LUOUVyOdGzokgAA_mM3xTw.png" group-title="TR ▹ Müzik",DREAM TÜRK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/142.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NR1 AŞK ᴴᴰ" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpjLvJoQiLFkp4Dr304s9EPZqxnGqrC0XPX5CxGbQoYHjs5_hAgzGZrYdWLTUxBfU4TOczf8kiiNGWiObrQVWG8XSPCbwuK-3nVXLnbapTroL7LigcCZSZXyd9iXkkURMpg.png" group-title="TR ▹ Müzik",NR1 AŞK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/143.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NR1 DAMAR ᴴᴰ" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpjLvJoQiLFkp4Dr304s9EPaWBomYbDlbDEHvL0qbXzct8j2Ryi-HCN9yM1G_ZC1okuvIYs8rNX9PwJFVQz4uxcoJM-OwBtZOcJfjeifiC0QeX5gcU66y7RsNeK0QO3pHig.png" group-title="TR ▹ Müzik",NR1 DAMAR ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/144.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NR1" tvg-logo="http://myserveriptv.com:2082/images/ec5221e7abe4783d9802f635e22052d9.png" group-title="TR ▹ Müzik",NR1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1285.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NR1 Türk" tvg-logo="http://myserveriptv.com:2082/images/ec5221e7abe4783d9802f635e22052d9.png" group-title="TR ▹ Müzik",NR1 Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1286.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NUMBER1 TÜRK ᴴᴰ" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpiaGNmJXQH8hDPiDCAhLtLNNLscX5jOyoAxfjCrpu3PJMXhbl2v2-MbZjpE2NccqYIxOQY3ReJoyfD8arn1WHSZVYAqBR41-AcmPjNcmQHNNVybsUXmAHvPCXu5neXfqBg.png" group-title="TR ▹ Müzik",NUMBER1 TÜRK ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/145.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NUMBER1 TV ᴴᴰ" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpiR_MUPl2ZqKo7nn3QkNSxNpfod7XbLwxkA-aIYYHJV2vyjyHz7Hyx62HmWHuwQyNF2FDfChIAb-qDxDzUpVVBx-mjJ2EukOVKenRU_Yt_DIIoe-oQkJZ1heqQPTXVhYow.png" group-title="TR ▹ Müzik",NUMBER1 TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/146.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="POWER TÜRK" tvg-logo="https://logos10.xyz/tvlogolari/TR/power_turk_tr_tv.png" group-title="TR ▹ Müzik",POWER TÜRK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/147.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="POWER TV ᴴᴰ" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLphnt9zJ5hoz26OWcvFSOZyT60w7vGogAayX00_w-_c51SgiddUmHY-9GazJsPCJdNJW5CJ-YlbQ5-2srWO4FgqrlqaTdGss95cVBom8__J2aIgfqky-4TsqosjGDDVxKLA.png" group-title="TR ▹ Müzik",POWER TV ᴴᴰ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/148.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TMB TV" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpkl9T1Fz4a-Ei0I_iJuw5PZ3DLvjJZFrE040JWvclxtkgofzDsIifKJ1tdwQdvTSOwFArC8wjtPy1C9ra6Lm6EU.png" group-title="TR ▹ Müzik",TMB TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/149.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="2024 Türkçe Pop [7/24]" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",2024 Türkçe Pop [7/24]
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/515002.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Türkçe Pop 1" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",Türkçe Pop 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1301.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REDBOX TURKCE POP" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",REDBOX TURKCE POP
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514913.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REDBOX ARABESK TV" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",REDBOX ARABESK TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514914.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AHMET KAYA" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",AHMET KAYA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514916.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ZARA" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",ZARA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514920.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="YILDIZ TILBE" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",YILDIZ TILBE
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514928.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Blu Halk Muzigi" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",Blu Halk Muzigi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514933.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BLU ANKARA HAVALARI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BLU ANKARA HAVALARI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514934.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BLU RUBATO DUETLER" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BLU RUBATO DUETLER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514935.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BLU AKUSTIK TURKU" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BLU AKUSTIK TURKU
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514936.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BLU EBRU GUNDES SILA" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BLU EBRU GUNDES SILA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514937.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BLU KUSTUM SHOW" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BLU KUSTUM SHOW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514938.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BLU MUSTAFA KESER" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BLU MUSTAFA KESER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514939.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SMARTBLU RAP" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",SMARTBLU RAP
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514940.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BEST OF DAMAR" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BEST OF DAMAR
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514941.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="OZENLE SECILMIS TURKULER" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",OZENLE SECILMIS TURKULER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514942.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KORAY AVCI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",KORAY AVCI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/514944.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kral Pop" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png" group-title="TR ▹ Müzik",Kral Pop
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/531619.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CAFE AHMET KAYA" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",CAFE AHMET KAYA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537685.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SERTAB ERENER MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",SERTAB ERENER MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537686.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MUAZZEZ ABACI MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",MUAZZEZ ABACI MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537687.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DEMET AKALIN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",DEMET AKALIN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537688.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CANDAN ERCETIN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",CANDAN ERCETIN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537689.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ALISAN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",ALISAN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537690.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SILA MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",SILA MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537691.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SERDAR ORTAC MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",SERDAR ORTAC MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537692.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REYNMEN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",REYNMEN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537693.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MUSTAFA CECELI MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",MUSTAFA CECELI MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537694.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MUSLUM GURSES MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",MUSLUM GURSES MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537695.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ORHAN GENCEBAY MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",ORHAN GENCEBAY MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537696.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="FERDI TAYFUR MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",FERDI TAYFUR MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537697.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IBRAHIM TATLISES MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",IBRAHIM TATLISES MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537698.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ZEKI MUREN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",ZEKI MUREN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537699.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ZEYNEP BASTIK MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",ZEYNEP BASTIK MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537700.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ZARA MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",ZARA MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537701.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="YILDIZ TILBE MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",YILDIZ TILBE MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537702.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="YALIN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",YALIN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537703.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TUGKAN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",TUGKAN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537704.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TARKAN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",TARKAN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537705.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SIBEL CAN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",SIBEL CAN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537706.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SELDE BAGCAN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",SELDE BAGCAN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537707.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="OGUZHAN KOC MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",OGUZHAN KOC MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537708.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NIL KARAIBRAHIMGIL MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",NIL KARAIBRAHIMGIL MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537709.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NESET ERTAS MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",NESET ERTAS MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537710.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MUZEYYEN SENAR MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",MUZEYYEN SENAR MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537711.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MUSTAFA SANDAL MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",MUSTAFA SANDAL MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537712.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MUAZZEZ ERSOY MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",MUAZZEZ ERSOY MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537713.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MABEL MATIZ MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",MABEL MATIZ MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537714.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KENAN DOGULU MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",KENAN DOGULU MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537715.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="INTIZAR MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",INTIZAR MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537716.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HAMIYET YUCESES MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",HAMIYET YUCESES MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537717.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GOKSEL MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",GOKSEL MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537718.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GOKHAN TURKMEN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",GOKHAN TURKMEN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537719.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="FERIDE HILAL AKIN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",FERIDE HILAL AKIN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537720.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EMIR CAN IGREK MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",EMIR CAN IGREK MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537721.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EBRU GUNDES MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",EBRU GUNDES MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537722.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CEM KARACA MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",CEM KARACA MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537723.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BURAY MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BURAY MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537724.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BULENT ERSOY MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BULENT ERSOY MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537725.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BILAL SONSES MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BILAL SONSES MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537726.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BEHIYE AKSOY MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BEHIYE AKSOY MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537727.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BARIS MANCO MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",BARIS MANCO MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537728.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AJDA PEKKAN MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",AJDA PEKKAN MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537729.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ADNAN SENSES MUZIKLERI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",ADNAN SENSES MUZIKLERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537730.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK ZEKI MÜREN" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK ZEKI MÜREN
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537752.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK TÜRKÜ" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK TÜRKÜ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537753.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK TÜRK POP" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK TÜRK POP
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537754.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK SLOW" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK SLOW
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537755.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK SANAT MÜZIĞI" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK SANAT MÜZIĞI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537756.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK RAP" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK RAP
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537757.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK MEYHANE ŞARKıLARı" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK MEYHANE ŞARKıLARı
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537758.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK BÜLENT ERSOY" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK BÜLENT ERSOY
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537759.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK ARABESK" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK ARABESK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537760.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK ALATURKA" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK ALATURKA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537761.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK 45 LIK" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK 45 LIK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537762.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PROTURK OYUN HAVALARı" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",PROTURK OYUN HAVALARı
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537763.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REDBOX ARABESK TV 7/24" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",REDBOX ARABESK TV 7/24
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537764.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REDBOX TURKCE POP 7/24" tvg-logo="https://rexpicon.cfd/logo/TR/REXmusic.png" group-title="TR ▹ Müzik",REDBOX TURKCE POP 7/24
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/537765.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR: VOLKAN KONAK" tvg-logo="https://tvchannelslist.site/logo/byzbox-132x991.png" group-title="TR ▹ Müzik",TR: VOLKAN KONAK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/570527.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Yunus FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Yunus FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1863.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Virgin Radio Turkiye" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Virgin Radio Turkiye
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1855.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ulku FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Ulku FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1854.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Turkulerle Turkiye" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Turkulerle Turkiye
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1853.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Turku Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Turku Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1852.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Turkiyem FM" tvg-logo="s:1:/images/yDalSTY80h_kqCCsStba1cHc_niCGpeLqokIjBc7ZU8.png" group-title="TR ▹ Radyo",Turkiyem FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1850.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tutku FM Van" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Tutku FM Van
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1849.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tutku FM Samsun" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Tutku FM Samsun
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1848.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Turkcenin Sesi Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Turkcenin Sesi Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1847.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Trakya FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Trakya FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1845.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tourism FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Tourism FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1844.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tatvan Radyo 13" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Tatvan Radyo 13
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1842.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tarsus FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Tarsus FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1841.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Star FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Star FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1838.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Soma FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Soma FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1837.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Slowturk FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Slowturk FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1836.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Slow Time" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Slow Time
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1835.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Slow Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Slow Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1834.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Slow Home" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Slow Home
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1833.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sivas FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Sivas FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1832.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Semerkand Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Semerkand Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1830.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sakarya Radyo Net" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Sakarya Radyo Net
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1829.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Rs FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Rs FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1828.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Relax Home" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Relax Home
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1826.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Yakamoz" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Yakamoz
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1823.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Ekin" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Ekin
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1637.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Arabesk Alemi" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Arabesk Alemi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1579.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Akra FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Akra FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1572.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Arabesk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Arabesk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1541.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Baba Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Baba Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1540.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pal FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Pal FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1539.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo 45'lik" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo 45'lik
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1538.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Karadeniz Akustik" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Karadeniz Akustik
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1537.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Viva" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Viva
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1536.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo 34" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo 34
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1535.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Best FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Best FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1534.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo 7" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo 7
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1533.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PAL Nostalji" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",PAL Nostalji
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1532.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Trafik İstanbul" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Trafik İstanbul
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1529.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radio Light" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radio Light
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1528.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Özel FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Özel FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1527.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Meteorolojinin Sesi Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Meteorolojinin Sesi Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1526.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Mega" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Mega
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1522.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Star Artı" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Star Artı
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1520.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Karadeniz FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Karadeniz FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1519.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DamarTürk FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",DamarTürk FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1518.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Yön Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Yön Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1517.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Eksen" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Eksen
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1515.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bayram FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Bayram FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1514.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Açık Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Açık Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1512.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Türkiye Polis Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Türkiye Polis Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1511.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Turkuvaz" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Turkuvaz
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1507.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bloomberg HT Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Bloomberg HT Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1504.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo 2000" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo 2000
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1496.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Show Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Show Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1493.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kafa Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Kafa Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1492.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lalegül FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Lalegül FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1490.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Turkuvaz" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Turkuvaz
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1486.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Türk Rap FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Türk Rap FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1482.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Eksen" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Eksen
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1478.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Spor" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Spor
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1474.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pal Station" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Pal Station
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1469.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Voyage" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Voyage
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1468.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Slow Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Slow Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1467.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kral Fm" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Kral Fm
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1457.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kral Pop" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Kral Pop
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1456.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Power Love" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Power Love
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1454.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="İstanbul FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",İstanbul FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1453.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Radyo Turkuvaz" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Radyo Turkuvaz
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1452.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kral Pop Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Kral Pop Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1451.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Power Türk Fm" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Power Türk Fm
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1449.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Trabzon Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Trabzon Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1446.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Trabzon Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Trabzon Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1445.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GAP Diyarbakır Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",GAP Diyarbakır Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1444.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Erzurum Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Erzurum Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1443.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Çukurova Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Çukurova Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1442.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Antalya Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Antalya Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1441.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Türkiye'nin Sesi Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Türkiye'nin Sesi Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1440.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Alem FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Alem FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510852.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Ankara Radyo Banko" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Ankara Radyo Banko
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510853.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Doksanlar FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Doksanlar FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510854.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Fenomen Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Fenomen Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510855.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Gençlik Radyosu" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Gençlik Radyosu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510856.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Küpe FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Küpe FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510858.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Seymen" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Seymen
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510859.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Karma Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Karma Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510860.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Kiss Genç" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Kiss Genç
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510861.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Kiss Gold Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Kiss Gold Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510865.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Kiss Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Kiss Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510866.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mydonose Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",Mydonose Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510867.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Number One Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Number One Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510872.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Number One Türk Doksanlar" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Number One Türk Doksanlar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510873.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Park FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Park FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510875.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Pop Home" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Pop Home
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510876.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Power Pop" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Power Pop
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510877.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : PowerTürk Akustik" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : PowerTürk Akustik
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510878.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : PowerTürk Dans" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : PowerTürk Dans
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510879.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : PowerTürk Taptaze" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : PowerTürk Taptaze
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510880.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Radyo 35" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Radyo 35
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510881.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Radyo 7 Nostalji" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Radyo 7 Nostalji
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510882.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Radyo 7 Pop Hit" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Radyo 7 Pop Hit
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510883.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Altın Şarkılar" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Altın Şarkılar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510884.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Bordo Mavi" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Bordo Mavi
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510885.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Radyo D" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Radyo D
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510886.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Pop 90" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Pop 90
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510887.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Trio" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Trio
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510888.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Yaren" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Yaren
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510889.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : RadyoBir" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : RadyoBir
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510890.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Retro Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Retro Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510891.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Siaray Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Siaray Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510892.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Süper FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Süper FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510893.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Süper2 FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Süper2 FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510894.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Yol Arkadaşım" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Yol Arkadaşım
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510895.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Joy Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Joy Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510897.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : JoyTürk Akustik" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : JoyTürk Akustik
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/510898.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Power XL" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Power XL
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512578.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : PowerTürk Slow" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : PowerTürk Slow
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512579.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Romantik Türk" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Romantik Türk
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512580.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Romantik Ses Isparta" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Romantik Ses Isparta
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512581.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Romantik Ses Sakarya" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Romantik Ses Sakarya
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512582.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Slow 7" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Slow 7
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512583.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Aşk Fm" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Aşk Fm
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512584.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Damar FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Damar FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512586.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Efkar FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Efkar FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512587.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Gerçek Radyo" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Gerçek Radyo
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512588.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : Hatay Dost FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : Hatay Dost FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512589.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO : İmbat FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO : İmbat FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512590.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Dalkas FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Dalkas FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523370.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Fenomen 2010'lar" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Fenomen 2010'lar
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523371.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Fenomen Pop" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Fenomen Pop
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523372.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Greatest Hits of All Time" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Greatest Hits of All Time
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523373.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: İTÜ Radyosu Caz/Blues" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: İTÜ Radyosu Caz/Blues
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523374.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Joy FM" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Joy FM
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523375.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Joy Jazz" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Joy Jazz
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523376.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Number One Türk Rap" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Number One Türk Rap
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523377.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: PowerTürk Rap" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: PowerTürk Rap
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523378.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Fenomen Rap" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Fenomen Rap
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523379.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: X Radio" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: X Radio
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523380.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Rap Home" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Rap Home
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523381.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RADYO: Power R&B Hip Hop" tvg-logo="https://i.imgur.com/RdvD1yu.png" group-title="TR ▹ Radyo",RADYO: Power R&B Hip Hop
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/523382.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="FM TV" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpjLvJoQiLFkp4Dr304s9EPZGIwQVeW-X5e4c1IuzYUf3UGjn2Dh_QNhj71KC3E952acxv1isyheH78qtiFVQA-5iUwkx7UEJRMiPQsoPeCC4ZN1VnAHRgkD1zAjDPwbJhg.png" group-title="TR ▹ Dini",FM TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/159.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MELTEM TV" tvg-logo="s:1:/images/1X4grOp2iviK1_CW8GqKqhqhLz1GFYTVKt_JdLzaMvq5pkAd6cTVdVUoi-fkJ8ePuYvIOztZZ94e5gfv7iSP9yD_mDBZGlaIcc4XKncokC-OIA7wOgZ5N9OP2O9Qaf1JfvSG8mHbaNINPmgBiAKjP7oMd3TVSJVRcLuxtXKk7x-YxGR40bgDtbSRrWv9FX4lqoGrSBiQi2VVxicFXAbuIw.png" group-title="TR ▹ Dini",MELTEM TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/160.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ON4 TV" tvg-logo="http://www.on4.com.tr/images/ON4LOGO.png" group-title="TR ▹ Dini",ON4 TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/161.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SEMERKAND TV" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLplcpaT85R7-Z4G0uP93cWA8obcyMrGOhIeIiltxZejtswUs87MmBvAvDwmJVIxNl9KlaLG7yTLgGKtjTJlhHKgQ.png" group-title="TR ▹ Dini",SEMERKAND TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/162.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VAV TV" tvg-logo="s:1:/images/1X4grOp2iviK1_CW8GqKqhqhLz1GFYTVKt_JdLzaMvq5pkAd6cTVdVUoi-fkJ8ePuYvIOztZZ94e5gfv7iSP9zsf0TJUuhDAA3sHloI9VwhzqCzQkQkd3JusHbTNxrbucyGGnzOqrcrIuNt8nCVnTo1ksmnD1zZVQYyHjixZ4YI.png" group-title="TR ▹ Dini",VAV TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/163.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hz. Yusuf" tvg-logo="" group-title="TR ▹ Dini",Hz. Yusuf
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/509535.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hz. Ömer" tvg-logo="https://rexpicon.cfd/logo/TR/rex724.png" group-title="TR ▹ Dini",Hz. Ömer
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/558214.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hz.Meryem" tvg-logo="https://rexpicon.cfd/logo/TR/rex724.png" group-title="TR ▹ Dini",Hz.Meryem
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/558215.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Yunus Emre" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OaO-v6jNhlJ_LCssUbtDhRpEbt6i4ijFY7XDnvIgCS1LTyvjrk2Zq1wAWgTB5zgmEQ.png" group-title="TR ▹ Dini",Yunus Emre
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512598.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kabe TV" tvg-logo="https://imgur.com/SGYwqGp" group-title="TR ▹ Dini",Kabe TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512599.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Dost TV" tvg-logo="s:1:/images/38K7FZH2lAlVMpQcrzXz3N90DytDATfWcHjwx2_LO9AEEI8rOJMeuxTzWpks7Eqyritxx0m0s_fuu_qowZoYvg.png" group-title="TR ▹ Dini",Dost TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512600.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lalegül TV" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuigvyUQwbLsQaavRMMrj_8i68FuHSIBBRtQuYLv8gk0IJ.png" group-title="TR ▹ Dini",Lalegül TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512601.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Rehber TV" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXqT85iDSpWPqkbUKsCbis1S7e0I0djcw_YKxXtiMtjW0A.png" group-title="TR ▹ Dini",Rehber TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512602.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kudüs TV" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXoYyN8ZTJAnfIjslq6qMk3g9wuq0d73H-_A4OS8f-2LzQ.png" group-title="TR ▹ Dini",Kudüs TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512603.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Blu Kurani Kerim Hatmi Serif" tvg-logo="s:1:/images/8rb-jqdPDNO6eBbTWoj3XdP8_DdbTa-UQY2F1e-yUSowTPijKEb_JTUUUpOEEXWfCa5qFFl14WSjbIAVrFm0dw.png" group-title="TR ▹ Dini",Blu Kurani Kerim Hatmi Serif
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512604.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nihat Hatipoglu HD" tvg-logo="" group-title="TR ▹ Dini",Nihat Hatipoglu HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512605.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KURAN MEALİ TAMAMI HD" tvg-logo="" group-title="TR ▹ Dini",KURAN MEALİ TAMAMI HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/512606.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:LIONBOX YUNUS EMRE" tvg-logo="" group-title="TR ▹ Dini",TR:LIONBOX YUNUS EMRE
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569462.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:LIONBOX HZ.OMER" tvg-logo="" group-title="TR ▹ Dini",TR:LIONBOX HZ.OMER
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569427.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:LIONBOX CAGRI 2" tvg-logo="" group-title="TR ▹ Dini",TR:LIONBOX CAGRI 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569408.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:LIONBOX CAGRI 1" tvg-logo="" group-title="TR ▹ Dini",TR:LIONBOX CAGRI 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569407.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:LIONBOX EVLIYA" tvg-logo="" group-title="TR ▹ Dini",TR:LIONBOX EVLIYA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569421.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:HZ. YUSUF 7/24" tvg-logo="" group-title="TR ▹ Dini",TR:HZ. YUSUF 7/24
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/569246.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Camia TV" tvg-logo="" group-title="TR ▹ Dini",Camia TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/574770.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="İlahi TV 1" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/%c4%b1lah%c4%b1Tv1.png" group-title="TR ▹ Dini",İlahi TV 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/574940.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="İlahi TV 2" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/%c4%b1lah%c4%b1Tv2.png" group-title="TR ▹ Dini",İlahi TV 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/574941.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:BYZBOX İLAHİ 1" tvg-logo="" group-title="TR ▹ Dini",TR:BYZBOX İLAHİ 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/610997.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:BYZBOX İLAHİ 2" tvg-logo="" group-title="TR ▹ Dini",TR:BYZBOX İLAHİ 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/611000.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:BYZBOX İLAHİ 3" tvg-logo="" group-title="TR ▹ Dini",TR:BYZBOX İLAHİ 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/611003.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:BYZBOX İLAHİ 4" tvg-logo="" group-title="TR ▹ Dini",TR:BYZBOX İLAHİ 4
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/611006.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TR:BYZBOX İLAHİ 5" tvg-logo="" group-title="TR ▹ Dini",TR:BYZBOX İLAHİ 5
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/611009.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BRT 1" tvg-logo="https://izmottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20200110/001300/XTV100000202/b04376d6-5833-417b-8d34-7bc0d6926f83.png" group-title="TR ▹ KKTC",BRT 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/151.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BRT 2" tvg-logo="https://izmottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20200102/001300/XTV100000195/fd08f8aa-9597-4baf-b8a7-b43a5c8c2b12.png" group-title="TR ▹ KKTC",BRT 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/152.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL T" tvg-logo="s:1:/images/1X4grOp2iviK1_CW8GqKqhqhLz1GFYTVKt_JdLzaMvq5pkAd6cTVdVUoi-fkJ8ePuYvIOztZZ94e5gfv7iSP97BTENbvoHLBuaIucdxnpcLjwCe6CPYU51FNbqktdXSSbHrGKchfTQqt7hpdb7YEXde_cQCdNUN2NStmWnAIgyxJHbp-lVd3vaItI6L3f5qd.png" group-title="TR ▹ KKTC",KANAL T
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/153.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KIBRIS ADA TV" tvg-logo="s:1:/images/1X4grOp2iviK1_CW8GqKqhqhLz1GFYTVKt_JdLzaMvq5pkAd6cTVdVUoi-fkJ8ePuYvIOztZZ94e5gfv7iSP97BTENbvoHLBuaIucdxnpcLjwCe6CPYU51FNbqktdXSSJZ2sxhs31RapY0r19FW2-OX-_j3vISXHV8o8jzSIkRcay2eAUMBsasGAmtnI7T7N.png" group-title="TR ▹ KKTC",KIBRIS ADA TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/154.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KIBRIS GENÇ TV" tvg-logo="s:1:/images/q2UKIVJTLxlgKahClxU7nqu7hvxP7ya5HY9A1nJKpYHLzBMYygiiPBhd3OuoL0Kmfnns1gcZ3mjIZz4XL1LLpgOUoszeitBklyFwNHDTVIwd6D5qRclVFnd_nmm2yCV6tWENK43_0piPI8X_p6P70KFirGdhqTWzrsg9SNANOunU1tGHBtblZyo0Vj23AmrC.png" group-title="TR ▹ KKTC",KIBRIS GENÇ TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/155.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KIBRIS TV" tvg-logo="https://izmottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/poster/20161031/001300/XTV100000190/c8b505ff-13e3-4e67-8b48-d4f30e623411.png" group-title="TR ▹ KKTC",KIBRIS TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/156.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV 2020" tvg-logo="s:1:/images/1X4grOp2iviK1_CW8GqKqhqhLz1GFYTVKt_JdLzaMvq5pkAd6cTVdVUoi-fkJ8ePuYvIOztZZ94e5gfv7iSP95D1svELrskJNjUcdrIjmMKmnx4aIYRLObiNWN7lG7endKULu42MMlBHhKq_ljwbSGevbRSdUhQ1RPIhSA3TNns.png" group-title="TR ▹ KKTC",TV 2020
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/157.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ADA TV" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/ada%20tv.png" group-title="TR ▹ Yerel",ADA TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1264.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AGRO TV" tvg-logo="s:1:/images/PsG4xNrv2rAGmuY9wjL-Q1l12Pr74ki6R3erSCwdTW4mUV0XfwdAuTXg7-g2O09T.png" group-title="TR ▹ Yerel",AGRO TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1206.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AKIT TV" tvg-logo="http://onecentcdn.com/newpicon/TR/akt.png" group-title="TR ▹ Yerel",AKIT TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1247.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AKSU TV" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuimlCRgk-z7aR8pq3D_roQ1QxqOV_RnPbKg1t2_VsGmbY.png" group-title="TR ▹ Yerel",AKSU TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1213.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Alanya Posta TV" tvg-logo="" group-title="TR ▹ Yerel",Alanya Posta TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/536974.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Alanya TV" tvg-logo="" group-title="TR ▹ Yerel",Alanya TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/536975.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ANADOLU DERNEK TV" tvg-logo="https://sltv-logo.cms-s.com/logo/turkeyT/anadolu_dernek.png" group-title="TR ▹ Yerel",ANADOLU DERNEK TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1270.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ART WORLD ANTALYA" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_295.png" group-title="TR ▹ Yerel",ART WORLD ANTALYA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/593970.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AS TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c2ed49571c185cec5be5491ad751215e.png" group-title="TR ▹ Yerel",AS TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/547021.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BENGUTURK" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bengu_turk.png" group-title="TR ▹ Yerel",BENGUTURK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1256.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BRT 1" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/brt.1.png" group-title="TR ▹ Yerel",BRT 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1260.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BRT 2" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/brt.2.png" group-title="TR ▹ Yerel",BRT 2
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1261.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BRT 3" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/brt.3.png" group-title="TR ▹ Yerel",BRT 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1262.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BRTV Anadolu" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuikHHB-z5VNygAfAkqNMTxvDby11HJQPKv0uzQyZTimyJ.png" group-title="TR ▹ Yerel",BRTV Anadolu
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1216.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BURSA TV" tvg-logo="s:1:/images/CQtilCr8tcdFpP3sNPzKS14sCqUhxsS9Nyi1m3484alqW3Mfev8JKx52JfOpP7byUZj0bi2vU230cHGNPq9LkQJk04ZWn4S--yvR6d5ZTAM.jpg" group-title="TR ▹ Yerel",BURSA TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1208.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CAY TV" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/caytv.png" group-title="TR ▹ Yerel",CAY TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1249.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CEM TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cem-tv-tr.png" group-title="TR ▹ Yerel",CEM TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1267.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CIFTCI TV" tvg-logo="https://imgur.com/r5VihY3" group-title="TR ▹ Yerel",CIFTCI TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1231.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DIYAR TV" tvg-logo="http://onecentcdn.com/newpicon/hfae/diyartv.png" group-title="TR ▹ Yerel",DIYAR TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1259.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="DOST TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dost-tv-tr.png" group-title="TR ▹ Yerel",DOST TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1250.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EDESSA TV" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvGJlQt_q9sQE2kaPa-0S23XdYYV6qzEa4WQnK1EK8bGQw.png" group-title="TR ▹ Yerel",EDESSA TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1240.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EKiN TURK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1ZQDf_RtMaGr-wltjUfHaZCYJ4ZlQdl8kQ&s" group-title="TR ▹ Yerel",EKiN TURK TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1269.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ER TV" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvECS4k4ot8nrE0DYKoIDjzf.png" group-title="TR ▹ Yerel",ER TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1205.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Erciş TV" tvg-logo="https://i.ibb.co/k2cXtGFm/image.png" group-title="TR ▹ Yerel",Erciş TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568147.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ES TV" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXrYX_K5upNVyeZz4cOO98xBb2LMpKfURv1b_d-6_JtTMA.png" group-title="TR ▹ Yerel",ES TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1237.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GUNEYDOGU TV" tvg-logo="s:1:/images/dsAt8cMDBjbP3mVNdeYR4dxNA2rvkpHCvI0RY8CBNU5kHEFD1n2nj_bi4B2TRtHg.png" group-title="TR ▹ Yerel",GUNEYDOGU TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1243.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="HRT AKDENIZ" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuik-F7kkn6c0x7eqghC3KHK_a9KuBAfjY2ao3T8Kjbdsk.png" group-title="TR ▹ Yerel",HRT AKDENIZ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1229.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KABE(CANLI) AL QURAN" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/kabe.png" group-title="TR ▹ Yerel",KABE(CANLI) AL QURAN
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1271.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KADIRGA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kadirga_tv_tr.png" group-title="TR ▹ Yerel",KADIRGA TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1263.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 15" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvGDBpJRJNb8zyrUUkWW_h0f9rsFLXDARLLN97amR04gSQ.png" group-title="TR ▹ Yerel",KANAL 15
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1223.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 23" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuioAzuuheGn1TCnMzHjnX8JELG_s5LjWaWQSR1oltCn_6.png" group-title="TR ▹ Yerel",KANAL 23
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1222.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 26" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXqk-kvg20RIjcyzyy1VoTNd2-aL1aj3WbY4x3WN1Gf0hg.png" group-title="TR ▹ Yerel",KANAL 26
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1210.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 3" tvg-logo="s:1:/images/EaEZdNbl3pmHOinuCDe8oKxDKFyFu4WypdTH78mHkUZrHakGgQbqv89_3KBTILJxblhrMEHPUC5sNxQ9WOcGGdcRppMoxNtb2k4FYThAtJ4.png" group-title="TR ▹ Yerel",KANAL 3
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1232.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 32" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/kanal32.png" group-title="TR ▹ Yerel",KANAL 32
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1255.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 33" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXptsVUFGT6WRS8KbjatA-Xm1DwKYSjHCJ6mw3kXh_jATw.png" group-title="TR ▹ Yerel",KANAL 33
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1236.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 58" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXqAvFW5qUZGjPlKSnq-HBsI4p07beFTAPPXdPyK4wRymQ.png" group-title="TR ▹ Yerel",KANAL 58
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1221.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL 68" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXpHEnZixi367AtyO4RrWbHxbvzaGAgWnwLQMc_unA68kg.png" group-title="TR ▹ Yerel",KANAL 68
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1217.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL ANTALYA" tvg-logo="s:1:/images/G2KkfZ4PEQsW5-XnN-1pYeYdiJdh5Jo6HL5UHBhTwrnGBtgURLnkMISATBsTJJwstf7NA8gNfwQlWSzQaJ7k0PvY7e74u_aJJQtlDHQufzQ.png" group-title="TR ▹ Yerel",KANAL ANTALYA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1230.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL AVRUPA" tvg-logo="s:1:/images/SohTVKnb42E244v3Ss0RjvTOyj2S_a8UGzjLqWxtsbYXTI3VSKo3MSwCg1JCgOZ1.png" group-title="TR ▹ Yerel",KANAL AVRUPA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1235.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL FIRAT" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/kanalfirat.png" group-title="TR ▹ Yerel",KANAL FIRAT
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1254.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL S" tvg-logo="https://yt3.googleusercontent.com/yJQPo6PMTYhnVAYc1SZ3yqnf2nRM4qUp7l72RDnJqH1YQWvUxZBT8hjbRoCxTIKmzawhWB-3NR0=s900-c-k-c0x00ffffff-no-rj" group-title="TR ▹ Yerel",KANAL S
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1212.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL T" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/kanal.t.png" group-title="TR ▹ Yerel",KANAL T
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1265.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL URFA" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/kanal.urfa.png" group-title="TR ▹ Yerel",KANAL URFA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1241.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KANAL V" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXoi3AWDsgYmLqNfET2CHzOanwjkat3GDqSwHJyQtEhShw.png" group-title="TR ▹ Yerel",KANAL V
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1209.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KIBRIS TV" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/kibris.tv.png" group-title="TR ▹ Yerel",KIBRIS TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1266.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KOZA TV" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvHbK2Jp-vGIPbY6Q3tj6Ur_.png" group-title="TR ▹ Yerel",KOZA TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1228.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lalegül TV" tvg-logo="s:1:/images/gfwblhBAj8zxLy3zngS8K5yN2iN5QZWgdO2W44JeSBXt77VU9wy_RRFy9nlwfjBZ.png" group-title="TR ▹ Yerel",Lalegül TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/2219.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="LINE TV" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/linetv.png" group-title="TR ▹ Yerel",LINE TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1244.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MALATYA VUSLAT TV" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuisEzaZnwy1g_SJsmnMxSbaKZwgdBWQZcwEgJu3RBGFTr.png" group-title="TR ▹ Yerel",MALATYA VUSLAT TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1204.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MAVI KARADENIZ" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvFtRr2li3heVmDIlpUi5BOcs7rCBHcGH8imBWe9bARTrQ.png" group-title="TR ▹ Yerel",MAVI KARADENIZ
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1219.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MELTEM TV" tvg-logo="s:1:/images/38K7FZH2lAlVMpQcrzXz3N90DytDATfWcHjwx2_LO9Aq58Gbi2gyYvqyVBNNIrm5g0el7gjQBCUaK8ySWY8XJA.png" group-title="TR ▹ Yerel",MELTEM TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1239.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MERCAN TV" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuipV63OHknX4QgwR3DqzThMu5lN7cRJ6EoQgzgOuPqT_D.png" group-title="TR ▹ Yerel",MERCAN TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1215.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ON4 TV" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuiiUvCfxqS8uTyjbCyjUj16JTix-r5rnEPvh-4f8lY9XJ.png" group-title="TR ▹ Yerel",ON4 TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1207.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ON6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSn478WKEQ6_6iXsVamlKMg4qicD94cCxLxw&s" group-title="TR ▹ Yerel",ON6
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513261.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ORDU ALTAS TV" tvg-logo="https://play-lh.googleusercontent.com/whrHkuiiGM2JoPocJ1Rt82OPIpOpQavwWxwP4UyNxVjc1woRgYI-3eUFY-OYdjRXqe4" group-title="TR ▹ Yerel",ORDU ALTAS TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1257.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PAMUKKALE TV" tvg-logo="s:1:/images/RrH3ZXMSJcwFHueL0O2KVxCONJgrY43i9zzRKM4MbodGS8J3Ummtbd1FlpTkOxLj3cft5bIZdfpGzc3yg5c6f_hlE2YQEyXbpL8V0KcQaZU.png" group-title="TR ▹ Yerel",PAMUKKALE TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1238.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="REHBER TV" tvg-logo="http://onecentcdn.com/newpicon/TR/rehbertvlogo3.png" group-title="TR ▹ Yerel",REHBER TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1246.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RUMELİ TV" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/rumeli-tv.png" group-title="TR ▹ Yerel",RUMELİ TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1268.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SAT7TURK" tvg-logo="s:1:/images/OnUGlBw4tb8TzUG4ANU15zdfkfTcW_mK2scOpKSNxLD24EML47ZJ-7xDIo5Hz5clzJqvydnceQ0Duxm2qk1fhA.png" group-title="TR ▹ Yerel",SAT7TURK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1227.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SUN RTV" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuiutdJ7zvMAdydYxtXZ4N2L9PX5TXyCqz3hVKvP1L3GMreK1a_OQxQD8P4rqnBTq6Fw.png" group-title="TR ▹ Yerel",SUN RTV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1202.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TEMPO TV" tvg-logo="s:1:/images/gruBL-7l4zyvMG70PItuipuoWhy-wco1KxQ46YQS6A8HSds1TcMXpchZ7yYvCqiu.png" group-title="TR ▹ Yerel",TEMPO TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1220.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TMB TV" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/tmb.tv.png" group-title="TR ▹ Yerel",TMB TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1248.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TON TV" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvHkcHgC29HSlqbKK-LqKDh4mnNGcFYbpjbV265YVUh2lQ.png" group-title="TR ▹ Yerel",TON TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1226.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TRAKYA TURK" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/0trakya.turk.png" group-title="TR ▹ Yerel",TRAKYA TURK
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1252.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV 1" tvg-logo="" group-title="TR ▹ Yerel",TV 1
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1251.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV 2020" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXrYX_K5upNVyeZz4cOO98xBg__bZ6borxAtyb3XFUuiXw.png" group-title="TR ▹ Yerel",TV 2020
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1211.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV 41" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvHRIACQsiBRvmep_kLUqBFO.png" group-title="TR ▹ Yerel",TV 41
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1218.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV 41" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvHRIACQsiBRvmep_kLUqBFO.png" group-title="TR ▹ Yerel",TV 41
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1224.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV 52" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-52-tr.png" group-title="TR ▹ Yerel",TV 52
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1272.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV A" tvg-logo="s:1:/images/E7ohMfC7yw-Ubj8K0S6WW9_hYIKt6EIfI_7WKkxqpPldhNRCYOCcDsZNyTQBq0B1R7pD5Zu5tmnP1WSkaG211kN2iPPKzh0bThoY6WubbgydMGVOehzYS5RAwpHQbzqFQMCl_7i_dPo8MzGgY629XhY0Guuc-mDbVxOjP7XJlq5egWG2VoGtrGgZ-HQ5Vicp.jpg" group-title="TR ▹ Yerel",TV A
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1233.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV KAYSERI" tvg-logo="http://onecentcdn.com/newpicon/TR/yerel/yerel.yeni/tv.kayseri.png" group-title="TR ▹ Yerel",TV KAYSERI
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1253.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TV5" tvg-logo="" group-title="TR ▹ Yerel",TV5
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1242.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TVDEN" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXrYX_K5upNVyeZz4cOO98xB9hK_OPAQqxM15468o0q80A.png" group-title="TR ▹ Yerel",TVDEN
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1214.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ULUSAL TV" tvg-logo="http://onecentcdn.com/newpicon/TR/ulusal_kanal.png" group-title="TR ▹ Yerel",ULUSAL TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1258.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="VAV TV" tvg-logo="s:1:/images/GheLwfaNm_NnQIqbh_H7OdJaTCcRHyNphikbSSqjVXqC8ZM2yvv0WO9gaBlacdPwYTW1aOhawbU4Hxwk2Wu0rg.png" group-title="TR ▹ Yerel",VAV TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1201.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Yeni Kocaeli Tv" tvg-logo="s:1:/images/jRmcLqfoX4Ti1jYIUnIeorhmc6EnMKs8uycHL-eISIn_xPKDoaKvWAa1_qGFbU9ZAISt57xpUDAc2TdeKFVPQ2WmeW-6eMO9uIuQwSdpnDE.png" group-title="TR ▹ Yerel",Yeni Kocaeli Tv
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1225.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="YILDIZ EN TV" tvg-logo="s:1:/images/QsaHMehunY9upucax1bg9nTpW_WU2Oq3R_vjnSWGsvGztLBnesg9dVZ4nVIRDq1f69qh1KBGOoJ_Jsnb5AnW6w.png" group-title="TR ▹ Yerel",YILDIZ EN TV
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/1200.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="TURKEY - TÜRKİYE" tvg-logo="https://i.imgur.com/sf2d2TR.png" group-title="SS ▹ Screensaver",TURKEY - TÜRKİYE
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/513438.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="ZEN TURKEY" tvg-logo="https://i.imgur.com/sf2d2TR.png" group-title="SS ▹ Screensaver",ZEN TURKEY
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/591405.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="USA: beIN SPORTS" tvg-logo="" group-title="US ▹ Entertainment",USA: beIN SPORTS
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/589283.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="USA: beIN SPORTS CONNECT 5" tvg-logo="" group-title="US ▹ Entertainment",USA: beIN SPORTS CONNECT 5
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/589284.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="USA: beIN SPORTS CONNECT 8" tvg-logo="" group-title="US ▹ Entertainment",USA: beIN SPORTS CONNECT 8
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/589285.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="USA: beIN SPORTS en Español" tvg-logo="" group-title="US ▹ Entertainment",USA: beIN SPORTS en Español
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/589286.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="USA: beIN SPORTS en Español" tvg-logo="" group-title="US ▹ Entertainment",USA: beIN SPORTS en Español
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/589287.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="USA- BEIN SPORT USA" tvg-logo="" group-title="US ▹ Entertainment",USA- BEIN SPORT USA
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/589288.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://i.ibb.co/gZWjrfvs/image.png" group-title="AR ▹ Arabia Sport",beIN SPORTS 6 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568145.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://i.ibb.co/XrZSK8zR/image.png" group-title="AR ▹ Arabia Sport",beIN SPORTS 7 HD
+http://rxurl.xyz:8080//live/rick@abi/8ac12ea5/568146.ts

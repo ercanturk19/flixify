@@ -1,0 +1,320 @@
+// Netflix tarzı örnek film verileri
+export interface Movie {
+  id: string;
+  title: string;
+  originalTitle?: string;
+  year: number;
+  rating: number;
+  duration: string;
+  genres: string[];
+  description: string;
+  poster: string;
+  backdrop: string;
+  logo?: string;
+  isOriginal?: boolean;
+  isNew?: boolean;
+  isTop10?: boolean;
+  rank?: number;
+  match?: number;
+}
+
+export const featuredMovie: Movie = {
+  id: "featured-1",
+  title: "The Dark Knight",
+  originalTitle: "Kara Şövalye",
+  year: 2008,
+  rating: 9.0,
+  duration: "2s 32dk",
+  genres: ["Aksiyon", "Suç", "Drama"],
+  description: "Batman, Joker olarak bilinen tehlikeli bir suçluyla yüzleşmek zorundadır. Gotham City'nin kaderi bu kedi-fare oyununda belirlenecektir. Christopher Nolan'ın başyapıtı.",
+  poster: "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  backdrop: "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+  isOriginal: false,
+  match: 98,
+};
+
+export const movies: Movie[] = [
+  // Popüler - Top 10
+  {
+    id: "pop-1",
+    title: "Inception",
+    originalTitle: "Başlangıç",
+    year: 2010,
+    rating: 8.8,
+    duration: "2s 28dk",
+    genres: ["Bilim Kurgu", "Aksiyon"],
+    description: "Rüya hırsızı Dom Cobb, son görevinde bir fikri çalmak yerine bir fikri yerleştirmek zorundadır.",
+    poster: "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+    isTop10: true,
+    rank: 1,
+    match: 95,
+  },
+  {
+    id: "pop-2",
+    title: "Interstellar",
+    originalTitle: "Yıldızlararası",
+    year: 2014,
+    rating: 8.6,
+    duration: "2s 49dk",
+    genres: ["Bilim Kurgu", "Drama"],
+    description: "İnsanlığın geleceği tehlikededir. Bir grup kaşif, uzayda yeni bir ev bulmak için tehlikeli bir yolculuğa çıkar.",
+    poster: "https://image.tmdb.org/t/p/w500/gEU2QniL6C8z19uVOtYnZ5UYj52.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    isTop10: true,
+    rank: 2,
+    match: 97,
+  },
+  {
+    id: "pop-3",
+    title: "The Matrix",
+    originalTitle: "Matrix",
+    year: 1999,
+    rating: 8.7,
+    duration: "2s 16dk",
+    genres: ["Bilim Kurgu", "Aksiyon"],
+    description: "Neo, gerçekliğin bir simülasyon olduğunu keşfeder ve insanlığı kurtarmak için savaşa katılır.",
+    poster: "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    isTop10: true,
+    rank: 3,
+    match: 94,
+  },
+  {
+    id: "pop-4",
+    title: "Pulp Fiction",
+    originalTitle: "Ucuz Roman",
+    year: 1994,
+    rating: 8.9,
+    duration: "2s 34dk",
+    genres: ["Suç", "Drama"],
+    description: "Birbirine bağlı dört farklı hikaye, şiddet ve kurtuluş temalarını işler. Tarantino klasığı.",
+    poster: "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/9rZg1J6vMQoDVSgRyWcpJa8IAGy.jpg",
+    isTop10: true,
+    rank: 4,
+    match: 92,
+  },
+  {
+    id: "pop-5",
+    title: "Fight Club",
+    originalTitle: "Dövüş Kulübü",
+    year: 1999,
+    rating: 8.8,
+    duration: "2s 19dk",
+    genres: ["Drama", "Psikolojik"],
+    description: "Uykusuzluk çeken bir ofis çalışanı ve sabun satıcısı Tyler Durden yeraltı dövüş kulübü kurar.",
+    poster: "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/rr7E0NoGKxvbBV4853FnOwZQgUx.jpg",
+    isTop10: true,
+    rank: 5,
+    match: 91,
+  },
+
+  // Flixify Orijinalleri
+  {
+    id: "orig-1",
+    title: "The Irishman",
+    originalTitle: "İrlandalı",
+    year: 2019,
+    rating: 7.8,
+    duration: "3s 29dk",
+    genres: ["Suç", "Drama"],
+    description: "Hitman Frank Sheeran, mafya ailesine sadakatini ve Jimmy Hoffa ile olan ilişkisini anlatır.",
+    poster: "https://image.tmdb.org/t/p/w500/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/foMDjFHrTgT6S2P6xNZLevoYq8.jpg",
+    isOriginal: true,
+    isNew: true,
+    match: 89,
+  },
+  {
+    id: "orig-2",
+    title: "Marriage Story",
+    originalTitle: "Evlilik Hikayesi",
+    year: 2019,
+    rating: 7.9,
+    duration: "2s 17dk",
+    genres: ["Drama", "Romantik"],
+    description: "Bir tiyatro yönetmeni ve onunla oyuncu eşi, acı verici bir boşanma sürecinden geçer.",
+    poster: "https://image.tmdb.org/t/p/w500/pZvZjxPR0SFC2oK9qV7v9w4Q2.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/4SC4cD8KnXnazwQ9i7V0jwlfMv.jpg",
+    isOriginal: true,
+    match: 87,
+  },
+  {
+    id: "orig-3",
+    title: "Roma",
+    year: 2018,
+    rating: 7.7,
+    duration: "2s 15dk",
+    genres: ["Drama"],
+    description: "1970'lerin Meksika City'sinde bir hizmetçinin yaşamı, ailenin trajedisiyle değişir.",
+    poster: "https://image.tmdb.org/t/p/w500/5RzJulB.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/5RzJulB.jpg",
+    isOriginal: true,
+    match: 85,
+  },
+
+  // Aksiyon
+  {
+    id: "act-1",
+    title: "Mad Max: Fury Road",
+    originalTitle: "Çılgın Max: Öfkeli Yollar",
+    year: 2015,
+    rating: 8.1,
+    duration: "2s",
+    genres: ["Aksiyon", "Macera"],
+    description: "Çölde hayatta kalmaya çalışan bir grup isyancı, tiran Immortan Joe'dan kaçar.",
+    poster: "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/tbhdm8UJAb4ViCTsulYFL3lxMCd.jpg",
+    match: 93,
+  },
+  {
+    id: "act-2",
+    title: "John Wick",
+    year: 2014,
+    rating: 7.4,
+    duration: "1s 41dk",
+    genres: ["Aksiyon", "Suç"],
+    description: "Emekliye ayrılmış bir tetikçi, köpeği öldürüldükten sonra intikam peşine düşer.",
+    poster: "https://image.tmdb.org/t/p/w500/fZPSdGRy2JqM4KpM6.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/mFb0ygcHj7WyJ7P4gH3sL5.jpg",
+    isNew: true,
+    match: 88,
+  },
+  {
+    id: "act-3",
+    title: "Gladiator",
+    originalTitle: "Gladyatör",
+    year: 2000,
+    rating: 8.5,
+    duration: "2s 35dk",
+    genres: ["Aksiyon", "Drama", "Tarih"],
+    description: "Romalı general Maximus, imparatorluğun tahtına göz diken komplocu bir oğul tarafından ihanete uğrar.",
+    poster: "https://image.tmdb.org/t/p/w500/ty8TscdUv6jKHxZJ4.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/hKfBNAhL.jpg",
+    match: 96,
+  },
+  {
+    id: "act-4",
+    title: "Dune: Part Two",
+    originalTitle: "Dune: Bölüm İki",
+    year: 2024,
+    rating: 8.9,
+    duration: "2s 46dk",
+    genres: ["Bilim Kurgu", "Aksiyon"],
+    description: "Paul Atreides, Harkonenlerden intikam almak ve evrenin kaderini değiştirmek için Fremenlerle birleşir.",
+    poster: "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5vpn.jpg",
+    isNew: true,
+    match: 99,
+  },
+
+  // Komedi
+  {
+    id: "com-1",
+    title: "The Grand Budapest Hotel",
+    originalTitle: "Büyük Budapeşte Oteli",
+    year: 2014,
+    rating: 8.1,
+    duration: "1s 39dk",
+    genres: ["Komedi", "Drama"],
+    description: "Ünlü bir otelin sadık görevlisi, bir cinayet davasında suçsuzluğunu kanıtlamaya çalışır.",
+    poster: "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/5ttP5RUR3nE.jpg",
+    match: 84,
+  },
+  {
+    id: "com-2",
+    title: "The Hangover",
+    originalTitle: "Felekten Bir Gece",
+    year: 2009,
+    rating: 7.7,
+    duration: "1s 40dk",
+    genres: ["Komedi"],
+    description: "Las Vegas'ta bekarlığa veda partisi veren üç arkadaş, ertesi sabah ne olduğunu hatırlamaz.",
+    poster: "https://image.tmdb.org/t/p/w500/ul.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/ko.jpg",
+    isNew: true,
+    match: 82,
+  },
+
+  // Bilim Kurgu
+  {
+    id: "sci-1",
+    title: "Blade Runner 2049",
+    originalTitle: "Bıçak Sırtı 2049",
+    year: 2017,
+    rating: 8.0,
+    duration: "2s 44dk",
+    genres: ["Bilim Kurgu", "Drama"],
+    description: "Genç bir blade runner, 30 yıllık bir gizemi çözmek için eski meslektaşı Rick Deckard'ı bulur.",
+    poster: "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/sAtoMQVQmY.jpg",
+    isNew: true,
+    match: 90,
+  },
+  {
+    id: "sci-2",
+    title: "Arrival",
+    originalTitle: "Geliş",
+    year: 2016,
+    rating: 7.9,
+    duration: "1s 56dk",
+    genres: ["Bilim Kurgu", "Drama"],
+    description: "Dilbilimci Louise Banks, dünyaya gelen uzaylılarla iletişim kurmaya çalışır.",
+    poster: "https://image.tmdb.org/t/p/w500/x9qzHS.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/wJ.jpg",
+    match: 86,
+  },
+  {
+    id: "sci-3",
+    title: "Oppenheimer",
+    year: 2023,
+    rating: 8.4,
+    duration: "3s",
+    genres: ["Biyografi", "Drama", "Tarih"],
+    description: "Amerikalı fizikçi J. Robert Oppenheimer'ın atom bombasını geliştirme hikayesi.",
+    poster: "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    backdrop: "https://image.tmdb.org/t/p/original/fm6KqXpk3M2HVheD8H5MRR.jpg",
+    isOriginal: true,
+    isNew: true,
+    match: 98,
+  },
+];
+
+// Kategorilere göre grupla
+export const categories = [
+  {
+    id: "trending",
+    title: "Türkiye'de Bugün En Çok İzlenenler",
+    movies: movies.filter(m => m.isTop10),
+  },
+  {
+    id: "originals",
+    title: "Flixify Orijinalleri",
+    movies: movies.filter(m => m.isOriginal),
+  },
+  {
+    id: "new",
+    title: "Yeni Çıkanlar",
+    movies: movies.filter(m => m.isNew),
+  },
+  {
+    id: "action",
+    title: "Aksiyon ve Macera",
+    movies: movies.filter(m => m.genres.includes("Aksiyon")),
+  },
+  {
+    id: "scifi",
+    title: "Bilim Kurgu ve Fantastik",
+    movies: movies.filter(m => m.genres.includes("Bilim Kurgu")),
+  },
+  {
+    id: "award",
+    title: "Ödüllü Filmler",
+    movies: movies.filter(m => m.rating >= 8.5),
+  },
+];
+
+export default movies;

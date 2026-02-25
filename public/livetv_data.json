@@ -1,0 +1,101 @@
+{
+  "turkishChannelCount": 822,
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "flag": "🇹🇷",
+      "channelCount": 822
+    },
+    {
+      "code": "US",
+      "name": "ABD",
+      "flag": "🇺🇸",
+      "channelCount": 2184
+    },
+    {
+      "code": "DE",
+      "name": "Almanya",
+      "flag": "🇩🇪",
+      "channelCount": 1650
+    },
+    {
+      "code": "AR",
+      "name": "Arjantin",
+      "flag": "🇦🇷",
+      "channelCount": 1173
+    },
+    {
+      "code": "AL",
+      "name": "Arnavutluk",
+      "flag": "🇦🇱",
+      "channelCount": 578
+    },
+    {
+      "code": "FR",
+      "name": "Fransa",
+      "flag": "🇫🇷",
+      "channelCount": 345
+    },
+    {
+      "code": "UK",
+      "name": "İngiltere",
+      "flag": "🇬🇧",
+      "channelCount": 330
+    },
+    {
+      "code": "IT",
+      "name": "İtalya",
+      "flag": "🇮🇹",
+      "channelCount": 269
+    },
+    {
+      "code": "ES",
+      "name": "İspanya",
+      "flag": "🇪🇸",
+      "channelCount": 224
+    },
+    {
+      "code": "RS",
+      "name": "Sırbistan",
+      "flag": "🇷🇸",
+      "channelCount": 203
+    },
+    {
+      "code": "PL",
+      "name": "Polonya",
+      "flag": "🇵🇱",
+      "channelCount": 186
+    },
+    {
+      "code": "CZ",
+      "name": "Çekya",
+      "flag": "🇨🇿",
+      "channelCount": 177
+    },
+    {
+      "code": "IR",
+      "name": "İran",
+      "flag": "🇮🇷",
+      "channelCount": 146
+    },
+    {
+      "code": "NL",
+      "name": "Hollanda",
+      "flag": "🇳🇱",
+      "channelCount": 126
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaycan",
+      "flag": "🇦🇿",
+      "channelCount": 73
+    },
+    {
+      "code": "RU",
+      "name": "Rusya",
+      "flag": "🇷🇺",
+      "channelCount": 3
+    }
+  ]
+}
