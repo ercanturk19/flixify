@@ -1,6 +1,5 @@
 import { useRef, useState, useCallback, memo } from 'react';
 import { ChevronLeft, ChevronRight, Play, Plus, ChevronDown } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
 
 interface NetflixRowProps {
   title: string;
